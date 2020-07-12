@@ -1,12 +1,12 @@
 ---
 title: "Gene hunting with knockoffs for hidden Markov models"
 collection: publications
-permalink: /publication/2019-03-01-hmm-knockoffs
+permalink: /publication/2019-hmm-knockoffs
 excerpt: 'This paper develop an exact construction of knockoffs for variables distributed as hidden Markov models, and builds upon this a principled and versatile method for controlling the false discovery rate in genome-wide association studies.'
-date: 2019-03-01
+date: 2019-01-01
 venue: 'Biometrika'
 paperurl: 'https://doi.org/10.1093/biomet/asy033'
-citation: 'Sesia, Sabatti, and Candès. (2019). &quot;Gene hunting with knockoffs for hidden Markov models.&quot; <i>Biometrika</i>. 106(1).'
+citation: 'Sesia, Sabatti, and Candès. (2019). &quot;Gene hunting with knockoffs for hidden Markov models.&quot; <i>Biometrika</i>. 106(1), pages 1-18.'
 ---
 
 **Abstract**
