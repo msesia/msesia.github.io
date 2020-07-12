@@ -1,7 +1,7 @@
 ---
 title: "Interpretable signal analysis with knockoffs enhances classification of bacterial Raman spectra"
 collection: publications
-permalink: /publication/2020-classification
+permalink: /publication/2020-raman-classification
 excerpt: "An application of knockoffs to signal-processing data from biophysics."
 date: 2020-06-15
 venue: 'pre-print'
