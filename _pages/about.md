@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I’m an assistant professor in the [Department of Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations), at the [USC Marshall Business School](https://www.marshall.usc.edu/).
+I’m an assistant professor in the [Department of Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations), at the [University of Southern California, Marshall School of Business](https://www.marshall.usc.edu/).
 
 **This website is under construction.**
