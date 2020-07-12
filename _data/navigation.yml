@@ -22,5 +22,5 @@ main:
   - title: "Publications"
     url: /publications/
     
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Software"
+    url: /software/

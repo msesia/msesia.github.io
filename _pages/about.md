@@ -15,5 +15,3 @@ While pursuing this goal, I enjoy dividing my time between theoretical, methodol
 
 I am very interested in building new collaborations, as well as in advising USC students.
 If you would like to chat about this, or more generally talk about research we may both find interesting, please do not hesitate to contact me.
-
-**This website is still under construction.**
