@@ -13,7 +13,7 @@ Employment
 ======
 * June 2020 - Present
   * Assistant Professor of Data Sciences and Operations
-  * University of Southern California, Marshall School of Business
+  * [University of Southern California, Marshall School of Business](https://www.marshall.usc.edu/departments/data-sciences-and-operations)
 
 Education
 ======
