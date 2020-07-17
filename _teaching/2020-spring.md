@@ -2,9 +2,9 @@
 title: "Stats 195, Introduction to R"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2017-spring
+permalink: /teaching/2020-spring
 venue: "Stanford University"
-date: 2017-04-01
+date: 2020-04-01
 location: "Stanford, CA"
 ---
 
