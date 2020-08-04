@@ -6,7 +6,7 @@ excerpt: "A knockoff-based method for the genetic mapping of complex traits at m
 date: 2020-01-01
 venue: 'Nature Communications'
 paperurl: 'https://doi.org/10.1038/s41467-020-14791-2'
-citation: 'Sesia, Bates, Katsevich, Sabatti, and Candès. (2020). &quot;Multi-resolution localization of causal variants across the genome.&quot; <i>Nature Commun</i>. 11, 1093.'
+citation: 'Sesia, Bates, Katsevich, Candès, and Sabatti. (2020). &quot;Multi-resolution localization of causal variants across the genome.&quot; <i>Nature Commun</i>. 11, 1093.'
 ---
 
 **Abstract**

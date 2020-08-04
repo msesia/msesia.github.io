@@ -49,7 +49,7 @@ From a statistician's perspective, this problem can at first be seen as a specia
   <em>Visualization of a hidden Markov model for the genetic variables of an offspring conditional on the DNA of the parents. This model can be used to generate synthetic data for rigorous model-free inference. Image from Bates, Sesia, Candès, and Sabatti. 2020.</em>
 </p>
 
-Relevant papers: [KnockoffZoom](/publication/2020-knockoffzoom), [HMM knockoffs](/publication/2019-hmm-knockoffs), [causal inference from trio data](/publication/2020-trio-studies).
+Relevant papers: [KnockoffZoom v2](/publication/2020-knockoffzoom2), [KnockoffZoom](/publication/2020-knockoffzoom), [HMM knockoffs](/publication/2019-hmm-knockoffs), [causal inference from trio data](/publication/2020-trio-studies).
 
 ### Collaborations
 

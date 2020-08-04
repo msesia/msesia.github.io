@@ -12,6 +12,7 @@ redirect_from:
 
 Selected projects:
 
+- [*KnockoffZoom-v2*](https://msesia.github.io/knockoffzoom-v2/): GWAS method localizing causal variants across the genome, accounting for population structure and familial relatedness.
 - [*ARC*](https://github.com/msesia/arc): Python package for adaptive and reliable classification.
 - [*KnockoffZoom*](https://msesia.github.io/knockoffzoom/): Flexible tool for the multi-resolution localization of causal variants across the genome.
 - [*DeepKnockoffs*](https://github.com/msesia/DeepKnockoffs): Python package for approximate knockoffs and model-free variable selection.
