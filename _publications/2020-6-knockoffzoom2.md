@@ -1,12 +1,12 @@
 ---
-title: "Controlling the false discovery rate in GWAS with population structure."
+title: "Controlling the false discovery rate in GWAS with population structure"
 collection: publications
 permalink: /publication/2020-knockoffzoom2
 excerpt: "A knockoff-based method for the genetic mapping of complex traits at multiple resolutions account for population structure, and a large-scale application to the UK Biobank data."
 date: 2020-08-04
 venue: 'bioRxiv pre-print'
 paperurl: #'https://doi.org/10.1038/s41467-020-14791-2'
-citation: 'Sesia, Bates, Candès, Marchini, and Sabatti (2020). &quot;Controlling the false discovery rate in GWAS with population structure.&quot; <i>bioRxiv</i>. 11, 1093.'
+citation: 'Sesia, Bates, Candès, Marchini, and Sabatti (2020). &quot;Controlling the false discovery rate in GWAS with population structure.&quot; <i>bioRxiv</i>.'
 ---
 
 **Abstract**
