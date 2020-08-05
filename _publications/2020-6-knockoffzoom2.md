@@ -2,7 +2,7 @@
 title: "Controlling the false discovery rate in GWAS with population structure"
 collection: publications
 permalink: /publication/2020-knockoffzoom2
-excerpt: "A knockoff-based method for the genetic mapping of complex traits at multiple resolutions account for population structure, and a large-scale application to the UK Biobank data."
+excerpt: "A knockoff-based method for the genetic mapping of complex traits at multiple resolutions accounting for population structure, and a large-scale application to the UK Biobank data."
 date: 2020-08-04
 venue: 'pre-print'
 paperurl: 'https://doi.org/10.1101/2020.08.04.236703'
