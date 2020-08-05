@@ -22,3 +22,5 @@ method, while applications to UK Biobank phenotypes yield many more discoveries 
 to BOLT-LMM, most of which are confirmed by the Japan Biobank and FinnGen data.
 
 [Download paper here](http://msesia.github.io/files/knockoffzoom-v2.pdf)
+
+[Download supplementary material here](http://msesia.github.io/files/knockoffzoom-v2-supp.pdf)
