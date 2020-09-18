@@ -5,8 +5,8 @@ permalink: /publication/2020-trio-studies
 excerpt: "Flexible and rigorous causal inference from genetic trio data."
 date: 2020-03-01
 venue: 'Proc. Natl. Acad. Sci. U.S.A.'
-paperurl: 'https://arxiv.org/abs/2002.09644'
-citation: 'Bates, Sesia, Sabatti, and Candès (2020). &quot;Causal inference in genetic trio studies.&quot; <i>pre-print at arXiv:2002.09644 </i>.'
+paperurl: 'https://www.pnas.org/content/early/2020/09/17/2007743117'
+citation: 'Bates, Sesia, Sabatti, and Candès (2020). &quot;Causal inference in genetic trio studies.&quot; <i>Proc. Natl. Acad. Sci. U.S.A.</i> (to appear).'
 ---
 
 **Abstract**
