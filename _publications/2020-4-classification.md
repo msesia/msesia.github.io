@@ -2,11 +2,11 @@
 title: "Classification with valid and adaptive coverage"
 collection: publications
 permalink: /publication/2020-classification
-excerpt: "A novel model-free predictive inference method for classification problems that can efficiently adapt to complex data distributions."
+excerpt: "Model-free classification inference that can efficiently adapt to complex data distributions."
 date: 2020-06-01
-venue: 'pre-print, under review'
-paperurl: 'https://arxiv.org/abs/2006.02544'
-citation: 'Romano, Sesia, and Candès (2020). &quot;Classification with valid and adaptive coverage.&quot; <i>pre-print at arXiv:2006:02544 </i>.'
+venue: 'Advances in Neural Information Processing Systems 33 (NeurIPS 2020)'
+paperurl: 'https://papers.nips.cc/paper/2020/hash/244edd7e85dc81602b7615cd705545f5-Abstract.html'
+citation: 'Romano, Sesia, and Candès (2020). &quot;Classification with valid and adaptive coverage.&quot; <i>Advances in Neural Information Processing Systems 33</i>.'
 ---
 
 **Abstract**
