@@ -12,6 +12,7 @@ redirect_from:
 
 Selected projects:
 
+- [*Conformal p-values*](https://github.com/msesia/conditional-conformal-pvalues): software for computing calibration-conditional conformal p-values for outlier detection.
 - [*KnockoffGWAS*](https://msesia.github.io/knockoffgwas/): GWAS method localizing causal variants across the genome, accounting for population structure and familial relatedness (aka KnockoffZoom v2).
 - [*ARC*](https://github.com/msesia/arc): Python package for adaptive and reliable classification.
 - [*KnockoffZoom*](https://msesia.github.io/knockoffzoom/): Flexible tool for the multi-resolution localization of causal variants across the genome.
