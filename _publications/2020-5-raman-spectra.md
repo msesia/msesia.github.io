@@ -1,16 +1,16 @@
 ---
-title: "Interpretable signal analysis with knockoffs enhances classification of bacterial Raman spectra"
+title: "Interpretable Classification of Bacterial Raman Spectra with Knockoff Wavelets"
 collection: publications
 permalink: /publication/2020-raman-classification
 excerpt: "An application of knockoffs to signal-processing data from biophysics."
 date: 2020-06-15
 venue: 'pre-print'
 paperurl: 'https://arxiv.org/abs/2006.04937'
-citation: 'Chia, Sesia, Ho, Jeffrey, Dionne, Candès, Howe (2020). &quot;Interpretable signal analysis with knockoffs enhances classification of bacterial Raman spectra.&quot; <i>pre-print at arXiv:2006.04937 </i>.'
+citation: 'Chia, Sesia, Ho, Jeffrey, Dionne, Candès, Howe (2020). &quot;Interpretable Classification of Bacterial Raman Spectra with Knockoff Wavelets.&quot; <i>pre-print at arXiv:2006.04937 </i>.'
 ---
 
 **Abstract**
 
-Sophisticated machine learning models are widely applied to signal data because they can detect complex patterns and leverage them effectively to make predictions. However, such models tend to be difficult to interpret, which is particularly concerning for critical biomedical applications, such as the identification of bacterial infections from spectroscopic data. Feature extraction and selection can identify structures in the data that are both informative and non-redundant, leading to simpler and more easily understandable models, without necessarily sacrificing predictive accuracy. In this paper, we present a signal classification method that combines wavelet-based feature extraction with a knockoff filter to control the false discovery rate. We apply the method to Raman spectroscopy data in order to classify bacterial samples. We show that the features thus obtained allow an intuitive logistic regression model to achieve predictive accuracy comparable to that of less understandable alternative approaches. 
+Deep neural networks and other sophisticated machine learning models are widely applied to biomedical signal data because they can detect complex patterns and compute accurate predictions. However, the difficulty of interpreting such models is a limitation, especially for applications involving high-stakes decision, including the identification of bacterial infections. In this paper, we consider fast Raman spectroscopy data and demonstrate that a logistic regression model with carefully selected features achieves accuracy comparable to that of neural networks, while being much simpler and more transparent. Our analysis leverages wavelet features with intuitive chemical interpretations, and performs controlled variable selection with knockoffs to ensure the predictors are relevant and non-redundant. Although we focus on a particular data set, the proposed approach is broadly applicable to other types of signal data for which interpretability may be important. 
 
 [Download paper here](http://msesia.github.io/files/raman-spectra.pdf)
