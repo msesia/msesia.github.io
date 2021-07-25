@@ -58,8 +58,8 @@ I was also very involved with the [statistics consulting workshop at Stanford](h
 
 <p align="center">
   <img src="/images/knockoff_wavelets.png" width="500"><br><br>
-  <em>Feature construction and selection using wavelets and knockoffs for Raman spectroscopy data. Image from Chia et al. 2020.</em>
+  <em>Interpretable classification of bacterial Raman spectra using knockoff-filtered wavelet features. Image from Chia et al. 2021.</em>
 </p>
 
 
-Relevant papers: [bacterial classification from Raman spectra](/publication/2020-raman-classification).
+Relevant papers: [bacterial classification from Raman spectra](/publication/2021-raman).
