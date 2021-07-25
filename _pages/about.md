@@ -13,5 +13,5 @@ I’m an assistant professor in the [Department of Data Sciences and Operations]
 My research is concerned with developing practical statistical methods that combine the power of machine learning algorithms with the reliability of provable model-free statistical guarantees.
 While pursuing this goal, I enjoy dividing my time between theoretical, methodological, computational, and applied work. 
 
-I am very interested in building new collaborations, as well as in advising USC students.
-If you would like to chat about this, or more generally talk about research we may both find interesting, please do not hesitate to contact me.
+I am interested in building new collaborations, and I have several possible research projects available for highly motivated students.
+Do not hesitate to contact me if you would like to talk about these opportunities, or more generally discuss research we may both find interesting.
