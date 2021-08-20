@@ -6,7 +6,7 @@ excerpt: "An application of knockoffs to signal-processing data from biophysics.
 date: 2021-07-07
 venue: 'IEEE Journal of Biomedical and Health Informatics'
 paperurl: 'https://doi.org/10.1109/JBHI.2021.3094873'
-citation: 'Chia, Sesia, Ho, Jeffrey, Dionne, Candès, Howe (2021). &quot;Interpretable Classification of Bacterial Raman Spectra with Knockoff Wavelets.&quot; <i>IEEE J. Biomed. Health. Inform. </i>.'
+citation: 'Chia, Sesia, Ho, Jeffrey, Dionne, Candès, and Howe (2021). &quot;Interpretable Classification of Bacterial Raman Spectra with Knockoff Wavelets.&quot; <i>IEEE J. Biomed. Health. Inform. </i>.'
 ---
 
 **Abstract**

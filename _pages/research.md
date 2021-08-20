@@ -22,7 +22,7 @@ I am broadly interested in developing methods that can perform statistically pri
   <em>Feature importance measures for unimportant explanatory variables (left) and hidden Markov model knockoffs (right). Knockoffs allow one to single out truly important variables while controlling the false discovery rate. Image from Sesia, Sabatti, and Candès. 2019.</em>
 </p>
 
-Relevant papers: [multi-environment knockoff filter](/publication/2021-mekf), [deep knockoffs](/publication/2019-deep-knockoffs), [HMM knockoffs](/publication/2019-hmm-knockoffs).
+Relevant papers: [transfer learning with knockoffs](/publication/2021-transfer), [multi-environment knockoff filter](/publication/2021-mekf), [deep knockoffs](/publication/2019-deep-knockoffs), [HMM knockoffs](/publication/2019-hmm-knockoffs).
 
 ### Model-free predictive inference
 
@@ -49,7 +49,7 @@ From a statistician's perspective, this problem can at first be seen as a specia
   <em>Visualization of a hidden Markov model for the genetic variables of an offspring conditional on the DNA of the parents. This model can be used to generate synthetic data for rigorous model-free inference. Image from Bates, Sesia, Candès, and Sabatti. 2020.</em>
 </p>
 
-Relevant papers: [multi-environment knockoff filter](/publication/2021-mekf), [KnockoffGWAS](/publication/2020-knockoffgwas), [KnockoffZoom](/publication/2020-knockoffzoom), [HMM knockoffs](/publication/2019-hmm-knockoffs), [causal inference from trio data](/publication/2020-trio-studies), [HMM knockoffs](/publication/2019-hmm-knockoffs).
+Relevant papers: [transfer learning with knockoffs](/publication/2021-transfer), [multi-environment knockoff filter](/publication/2021-mekf), [KnockoffGWAS](/publication/2020-knockoffgwas), [KnockoffZoom](/publication/2020-knockoffzoom), [HMM knockoffs](/publication/2019-hmm-knockoffs), [causal inference from trio data](/publication/2020-trio-studies), [HMM knockoffs](/publication/2019-hmm-knockoffs).
 
 ### Collaborations
 
