@@ -4,7 +4,7 @@ collection: teaching
 type: "Misc Tutorials"
 permalink: /teaching/online
 venue: ""
-date: 2021-2022
+date: "01-01-2022"
 location: "Los Angeles, CA"
 ---
 

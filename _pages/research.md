@@ -62,4 +62,4 @@ I was also very involved with the [statistics consulting workshop at Stanford](h
 </p>
 
 
-Relevant papers: [bacterial classification from Raman spectra](/publication/2021-raman).
+Relevant papers: [bacterial classification from Raman spectra](/publication/2021-raman), [Hyperoxemia among pediatric intensive care unit patients](/publication/2021-hyperoxemia)
