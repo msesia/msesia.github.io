@@ -35,7 +35,7 @@ I am interested in developing methods for model-free predictive inference that a
   <em>Prediction bands with guaranteed 90% coverage in a one-dimensional model-free regression problem, using conformal quantile regression. Image inspired by Romano, Patterson, and Candès. 2019.</em>
 </p>
 
-Relevant papers: [conformal prediction using conditional histograms](/publication/2021-chr), [testing for outliers with conformal p-values](/publication/2021-mot), [valid and adaptive classification](/publication/2020-classification), [a comparison of conformal quantile regression methods](/publication/2020-comparison-conformal).
+Relevant papers: [conformal sketching](/publication/2022-conf-sketch), [conformal prediction using conditional histograms](/publication/2021-chr), [testing for outliers with conformal p-values](/publication/2021-mot), [valid and adaptive classification](/publication/2020-classification), [a comparison of conformal quantile regression methods](/publication/2020-comparison-conformal).
 
 ## Methodology and applications
 
