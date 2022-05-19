@@ -22,7 +22,7 @@ I am broadly interested in developing methods that can perform statistically pri
   <em>Feature importance measures for unimportant explanatory variables (left) and hidden Markov model knockoffs (right). Knockoffs allow one to single out truly important variables while controlling the false discovery rate. Image from Sesia, Sabatti, and Candès. 2019.</em>
 </p>
 
-Relevant papers: [transfer learning with knockoffs](/publication/2021-transfer), [multi-environment knockoff filter](/publication/2021-mekf), [deep knockoffs](/publication/2019-deep-knockoffs), [HMM knockoffs](/publication/2019-hmm-knockoffs).
+Relevant papers: [individualized model-X inference](/publication/2022-i-modelx), [transfer learning with knockoffs](/publication/2021-transfer), [multi-environment knockoff filter](/publication/2021-mekf), [deep knockoffs](/publication/2019-deep-knockoffs), [HMM knockoffs](/publication/2019-hmm-knockoffs).
 
 ### Model-free predictive inference
 
