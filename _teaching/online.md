@@ -1,9 +1,9 @@
 ---
-title: "Misc Tutorials"
+title: "Misc tutorials for graduate students"
 collection: teaching
 type: "Misc Tutorials"
 permalink: /teaching/online
-venue: ""
+venue: "University of Southern California"
 date: "01-01-2022"
 location: "Los Angeles, CA"
 ---

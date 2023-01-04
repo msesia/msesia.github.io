@@ -9,14 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Employment
-======
+### Employment
+
+* January 2023 - present
+  * Assistant Professor of Computer Science
+  * University of Southern California, Viterbi School of Engineering
+
 * June 2020 - present
   * Assistant Professor of Data Sciences and Operations
-  * [University of Southern California, Marshall School of Business](https://www.marshall.usc.edu/departments/data-sciences-and-operations)
+  * University of Southern California, Marshall School of Business
 
-Education
-======
+
+### Education
+
 * Ph.D in Statistics, [Stanford University](https://statistics.stanford.edu/), 2020.
 * M.S. in Physics of Complex Systems, [Politecnico di Torino](https://www.polito.it/index.php?lang=en) and [Université Paris-Sud](https://www.universite-paris-saclay.fr/en) (joint), 2015.
 * M.A. in Statistics and Applied Mathematics, [Collegio Carlo Alberto](https://www.carloalberto.org/), 2015.
