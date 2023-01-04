@@ -12,6 +12,30 @@ redirect_from:
 
 ## Methodology and theory
 
+### Model-free predictive inference
+
+An important objective of statistics is to predict future outcomes of a certain phenomenon given relevant past observations. 
+Most existing approaches to this problem are either limited by relatively simple parametric models (whose validity may often be hard to justify in practice), or are based on complex algorithms that offer no statistical guarantees (and tend to be overconfident about the accuracy of their predictions).
+I am interested in developing methods for model-free predictive inference that are both generally applicable and as efficient as possible. I seek this goal by combining statistical exchangeability ideas (e.g., [conformal inference](http://jmlr.csail.mit.edu/papers/volume9/shafer08a/shafer08a.pdf)) with machine learning.
+
+<p align="center">
+  <img src="/images/cifar10.png" width="700"><br>
+  <em>Conformal prediction intervals for two test images from the CIFAR-10 data set, with their top two estimated class
+probabilities computed by the output softmax layer of convolutional neural networks trained to
+minimize different loss functions. Left: intact image of a ship. Right: corrupted image of a dog. Image from Einbinder, Romano, Sesia, and Zhou (2022).</em>
+</p>
+
+Relevant papers: 
+- [Conformalized learning](/publication/2022-conf-learn)
+- [Conformalized sketching under relaxed exchangeability](/publication/2022-conf-sketch-relaxed)
+- [Conformalized sketching](/publication/2022-conf-sketch)
+- [Integrative conformal p-values](/publication/2022-integrative)
+- [Conformal prediction using conditional histograms](/publication/2021-chr)
+- [Testing for outliers with conformal p-values](/publication/2021-mot)
+- [Valid and adaptive classification](/publication/2020-classification)
+- [A comparison of conformal quantile regression methods](/publication/2020-comparison-conformal).
+
+
 ### High-dimensional variable selection
 
 Modern data sets often measure thousands of possible explanatory variables, which one would want to leverage to explain a particular phenomenon of interest, although only a small subset of them may be relevant. The challenge for statisticians is to identify which of these variables are truly important by analyzing the data, even though the number of observations may be smaller than the number of variables, and to do so with confidence.
@@ -22,20 +46,13 @@ I am broadly interested in developing methods that can perform statistically pri
   <em>Feature importance measures for unimportant explanatory variables (left) and hidden Markov model knockoffs (right). Knockoffs allow one to single out truly important variables while controlling the false discovery rate. Image from Sesia, Sabatti, and Candès. 2019.</em>
 </p>
 
-Relevant papers: [individualized model-X inference](/publication/2022-i-modelx), [transfer learning with knockoffs](/publication/2021-transfer), [multi-environment knockoff filter](/publication/2021-mekf), [deep knockoffs](/publication/2019-deep-knockoffs), [HMM knockoffs](/publication/2019-hmm-knockoffs).
+Relevant papers:
+- [Individualized model-X inference](/publication/2022-i-modelx)
+- [Transfer learning with knockoffs](/publication/2021-transfer)
+- [Multi-environment knockoff filter](/publication/2021-mekf)
+- [Deep knockoffs](/publication/2019-deep-knockoffs)
+- [Hidden Markov model knockoffs](/publication/2019-hmm-knockoffs).
 
-### Model-free predictive inference
-
-An important objective of statistics is to predict future outcomes of a certain phenomenon given relevant past observations. 
-Most existing approaches to this problem are either limited by relatively simple parametric models (whose validity may often be hard to justify in practice), or are based on complex algorithms that offer no statistical guarantees (and tend to be overconfident about the accuracy of their predictions).
-I am interested in developing methods for model-free predictive inference that are both generally applicable and as efficient as possible. I seek this goal by combining statistical exchangeability ideas (e.g., [conformal inference](http://jmlr.csail.mit.edu/papers/volume9/shafer08a/shafer08a.pdf)) with machine learning.
-
-<p align="center">
-  <img src="/images/cqr.png" width="450"><br>
-  <em>Prediction bands with guaranteed 90% coverage in a one-dimensional model-free regression problem, using conformal quantile regression. Image inspired by Romano, Patterson, and Candès. 2019.</em>
-</p>
-
-Relevant papers: [conformal learning](/publication/2022-conf-learn), [conformal sketching](/publication/2022-conf-sketch), [conformal prediction using conditional histograms](/publication/2021-chr), [testing for outliers with conformal p-values](/publication/2021-mot), [valid and adaptive classification](/publication/2020-classification), [a comparison of conformal quantile regression methods](/publication/2020-comparison-conformal).
 
 ## Methodology and applications
 
@@ -49,12 +66,17 @@ From a statistician's perspective, this problem can at first be seen as a specia
   <em>Visualization of a hidden Markov model for the genetic variables of an offspring conditional on the DNA of the parents. This model can be used to generate synthetic data for rigorous model-free inference. Image from Bates, Sesia, Candès, and Sabatti. 2020.</em>
 </p>
 
-Relevant papers: [transfer learning with knockoffs](/publication/2021-transfer), [multi-environment knockoff filter](/publication/2021-mekf), [KnockoffGWAS](/publication/2020-knockoffgwas), [KnockoffZoom](/publication/2020-knockoffzoom), [HMM knockoffs](/publication/2019-hmm-knockoffs), [causal inference from trio data](/publication/2020-trio-studies), [HMM knockoffs](/publication/2019-hmm-knockoffs).
+Relevant papers: 
+- [Transfer learning with knockoffs](/publication/2021-transfer)
+- [Multi-environment knockoff filter](/publication/2021-mekf)
+- [KnockoffGWAS](/publication/2020-knockoffgwas)
+- [KnockoffZoom](/publication/2020-knockoffzoom)
+- [Causal inference from trio data](/publication/2020-trio-studies),
+- [Hidden Markov model knockoffs](/publication/2019-hmm-knockoffs).
 
 ### Collaborations
 
-I enjoy collaborating on applied problems that involve statistics. 
-I was also very involved with the [statistics consulting workshop at Stanford](https://statistics.stanford.edu/resources/consulting) and I look forward to building new collaborations at USC.
+I enjoy collaborating on applied data science and statistics problems.
 
 <p align="center">
   <img src="/images/knockoff_wavelets.png" width="500"><br><br>
@@ -62,4 +84,9 @@ I was also very involved with the [statistics consulting workshop at Stanford](h
 </p>
 
 
-Relevant papers: [bacterial classification from Raman spectra](/publication/2021-raman), [Hyperoxemia among pediatric intensive care unit patients](/publication/2021-hyperoxemia)
+Relevant papers:
+- [Robotic-assisted esophagectomy](/publication/2022-robotic)
+- [Circulating tumor cells](/publication/2022-long-term-2)
+- [Circulating tumor cells](/publication/2022-long-term)
+- [Bacterial classification from Raman spectra](/publication/2021-raman)
+- [Hyperoxemia among pediatric intensive care unit patients](/publication/2021-hyperoxemia)

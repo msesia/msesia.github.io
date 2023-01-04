@@ -12,6 +12,7 @@ redirect_from:
 
 Selected projects:
 
+- [*Conformalized learning*](https://github.com/bat-sheva/conformal-learning): uncertainty-aware training of deep neural network classifiers.
 - [*CHR*](https://github.com/msesia/chr): powerful and adaptive conformal prediction intervals for regression.
 - [*Conformal p-values*](https://github.com/msesia/conditional-conformal-pvalues): software for computing calibration-conditional conformal p-values for outlier detection.
 - [*KnockoffGWAS*](https://msesia.github.io/knockoffgwas/): GWAS method localizing causal variants across the genome, accounting for population structure and familial relatedness (aka KnockoffZoom v2).
