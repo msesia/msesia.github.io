@@ -2,11 +2,9 @@
 title: "Individualized conditional independence testing under model-X with heterogeneous samples and interactions"
 collection: publications
 permalink: /publication/2022-i-modelx
-excerpt: "This paper extends the methodology of model-X knockoffs and the conditional randomization test to deal with heterogeneous samples and interactions."
+excerpt: ''
 date: 2022-05-18
 venue: 'pre-print'
-paperurl: 'https://arxiv.org/abs/2205.08653'
-citation: 'Sesia and Sun (2022). &quot;Individualized conditional independence testing under model-X with heterogeneous samples and interactions.&quot; <i>arXiv</i>.'
 ---
 
 **Abstract**

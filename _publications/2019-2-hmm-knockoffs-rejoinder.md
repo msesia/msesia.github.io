@@ -2,11 +2,9 @@
 title: "Rejoinder: 'Gene hunting with knockoffs for hidden Markov models'"
 collection: publications
 permalink: /publication/2019-hmm-knockoffs-rejoinder
-excerpt: "Discussion of 'Gene hunting with knockoffs for hidden Markov models'."
+excerpt: ''
 date: 2019-01-02
 venue: 'Biometrika'
-paperurl: 'https://doi.org/10.1093/biomet/asy075'
-citation: 'Sesia, Sabatti, and Candès. (2019). &quot;Gene hunting with knockoffs for hidden Markov models.&quot; <i>Biometrika</i>. 106(1), pages 35-45.'
 ---
 
 **Abstract**

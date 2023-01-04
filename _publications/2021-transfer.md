@@ -2,11 +2,9 @@
 title: "Transfer learning in genome-wide association studies with knockoffs"
 collection: publications
 permalink: /publication/2021-transfer
-excerpt: "This paper develops a method to increase the power of conditional testing via knockoffs by leveraging prior information in external data sets collected from different populations or measuring related outcomes."
+excerpt: ''
 date: 2021-08-19
-venue: 'pre-print'
-paperurl: 'https://arxiv.org/abs/2108.08813'
-citation: 'Li, Ren, Sabatti, and Sesia (2021). &quot;Transfer learning in genome-wide association studies with knockoffs.&quot; <i>arXiv preprint </i>.'
+venue: 'Sankhya B'
 ---
 
 **Abstract**

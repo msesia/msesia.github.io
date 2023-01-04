@@ -2,11 +2,9 @@
 title: "Hyperoxemia among Pediatric Intensive Care Unit Patients Receiving Oxygen Therapy"
 collection: publications
 permalink: /publication/2021-hyperoxemia
-excerpt: "This paper studies the prevalence and severity of hyperoxemia among pediatric intensive care unit patients at the Stanford Children's Hospital."
+excerpt: ''
 date: 2021-12-23
 venue: 'Journal of Pediatric Intensive Care'
-paperurl: 'https://doi.org/10.1055/s-0041-1740586'
-citation: 'Fayazi, Azadeh R., Sesia, Matteo, Anand, Kanwaljeet J. S. (2021). &quot;Hyperoxemia among Pediatric Intensive Care Unit Patients Receiving Oxygen Therapy.&quot; <i>J Pediatr Intensive Care</i>.'
 ---
 
 **Abstract**

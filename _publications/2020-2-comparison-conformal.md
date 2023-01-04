@@ -2,11 +2,9 @@
 title: "A comparison of some conformal quantile regression methods"
 collection: publications
 permalink: /publication/2020-comparison-conformal
-excerpt: "This paper compares two recent methods that combine conformal inference with quantile regression to produce locally adaptive and marginally valid prediction intervals under sample exchangeability, both theoretically and empirically."
+excerpt: ''
 date: 2020-01-01
 venue: 'Stat'
-paperurl: 'http://dx.doi.org/10.1002/sta4.261'
-citation: 'Sesia and Candès. (2020). &quot;A comparison of some conformal quantile regression methods.&quot; <i>Stat</i>. 9:e261.'
 ---
 
 **Abstract**

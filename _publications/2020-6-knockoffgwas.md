@@ -2,11 +2,9 @@
 title: "Controlling the false discovery rate in GWAS with population structure"
 collection: publications
 permalink: /publication/2020-knockoffgwas
-excerpt: "A knockoff-based method for the genetic mapping of complex traits at multiple resolutions accounting for population structure, and a large-scale application to the UK Biobank data."
+excerpt: ''
 date: 2020-08-04
 venue: 'Proc. Natl. Acad. Sci. U.S.A.'
-paperurl: 'https://doi.org/10.1073/pnas.2105841118'
-citation: 'Sesia, Bates, Candès, Marchini, and Sabatti (2020). &quot;Controlling the false discovery rate in GWAS with population structure.&quot; <i>Proc. Natl. Acad. Sci. U.S.A.</i>, 1180 (40).'
 ---
 
 **Abstract**

@@ -2,11 +2,9 @@
 title: "Training Uncertainty-Aware Classifiers with Conformalized Deep Learning"
 collection: publications
 permalink: /publication/2022-conf-learn
-excerpt: "A flexible conformal inference method is developed to construct confidence intervals for the frequencies of queried objects in a very large data set, based on the information contained in a much smaller sketch of those data."
-date: 2022-05-12
-venue: 'pre-print'
-paperurl: 'https://arxiv.org/abs/2205.05878'
-citation: 'Einbinder, Romano, Sesia, and Zhou (2022). &quot;Training Uncertainty-Aware Classifiers with Conformalized Deep Learning.&quot; <i>arXiv</i>.'
+excerpt: ''
+date: 2022-12-01
+venue: 'Advances in Neural Information Processing Systems 35 (NeurIPS)'
 ---
 
 **Abstract**
