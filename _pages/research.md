@@ -54,6 +54,14 @@ Relevant papers:
 - [Hidden Markov model knockoffs](/publication/2019-hmm-knockoffs).
 
 
+### Other more recent topics
+
+Estimation of coverage probabilities and distinct counts from sketched data:
+- [BNP estimation of coverage probabilities from sketched data](/publication/2022-bnp-sketch)
+- [Conformalized sketching under relaxed exchangeability](/publication/2022-conf-sketch-relaxed)
+- [Conformalized sketching](/publication/2022-conf-sketch)
+
+
 ## Methodology and applications
 
 ### Statistical genetics
