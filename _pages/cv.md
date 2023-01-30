@@ -12,7 +12,7 @@ redirect_from:
 ### Employment
 
 * January 2023 - present
-  * Assistant Professor of Computer Science
+  * Assistant Professor of Computer Science (by courtesy)
   * University of Southern California, Viterbi School of Engineering
 
 * June 2020 - present

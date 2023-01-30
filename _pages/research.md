@@ -26,6 +26,7 @@ minimize different loss functions. Left: intact image of a ship. Right: corrupte
 </p>
 
 Relevant papers: 
+- [Conformalized early stopping](/publication/2023-early-stopping)
 - [Conformalized learning](/publication/2022-conf-learn)
 - [Conformalized sketching under relaxed exchangeability](/publication/2022-conf-sketch-relaxed)
 - [Conformalized sketching](/publication/2022-conf-sketch)
