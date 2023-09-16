@@ -26,10 +26,11 @@ minimize different loss functions. Left: intact image of a ship. Right: corrupte
 </p>
 
 Relevant papers: 
-- [De-randomized FDR control with conformal e-values](/publication/2023-2023-c-fdr-evals)
+- [Adaptive conformal classification with noisy labels](/publication/2023-conformal-label-noise)
+- [De-randomized FDR control with conformal e-values](/publication/2023-c-fdr-evals)
 - [Conformalized early stopping](/publication/2023-early-stopping)
 - [Conformalized learning](/publication/2022-conf-learn)
-- [Conformalized sketching under relaxed exchangeability](/publication/2022-conf-sketch-relaxed)
+- [Conformalized sketching with coverage for distinct queries](/publication/2022-conf-sketch-relaxed)
 - [Conformalized sketching](/publication/2022-conf-sketch)
 - [Integrative conformal p-values](/publication/2022-integrative)
 - [Conformal prediction using conditional histograms](/publication/2021-chr)
@@ -49,7 +50,7 @@ I am broadly interested in developing methods that can perform statistically pri
 </p>
 
 Relevant papers:
-- [Individualized model-X inference](/publication/2022-i-modelx)
+- [Subgroup-selective knockoff filter](/publication/2022-sskf)
 - [Transfer learning with knockoffs](/publication/2021-transfer)
 - [Multi-environment knockoff filter](/publication/2021-mekf)
 - [Deep knockoffs](/publication/2019-deep-knockoffs)

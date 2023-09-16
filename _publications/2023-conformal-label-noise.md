@@ -1,7 +1,7 @@
 ---
 title: "Adaptive conformal classification with noisy labels"
 collection: publications
-permalink: /publication/2023-early-stopping
+permalink: /publication/2023-conformal-label-noise
 excerpt: ''
 date: 2023-09-10
 venue: 'pre-print'
