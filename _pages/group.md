@@ -13,7 +13,7 @@ redirect_from:
 ### Current PhD students
 
 
-- Cora Liang (Mathematics)
+- Ziyi (Cora) Liang (Mathematics)
 - Yanfei Zhou. (Data Sciences and Operations)
 - Tianmin Xie. (Data Sciences and Operations)
 
