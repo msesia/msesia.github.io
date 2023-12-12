@@ -23,4 +23,4 @@ Selected projects:
 - [*SNPknock for Python*](https://github.com/msesia/snpknock-python): Python package for generating knockoffs of hidden Markov models and genetic data. Note: this package is not up-to-date compared to the corresponding R package; the R package is currently recommended.
 - [*Knockoffs*](https://web.stanford.edu/group/candes/knockoffs/): R and MATLAB packages for powerful and versatile controlled variable selection.
 
-Other projects are on [GitHub](https://github.com/msesia).
+A full list of projects can be found on [GitHub](https://github.com/msesia).

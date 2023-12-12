@@ -60,6 +60,7 @@ Relevant papers:
 ### Other more recent topics
 
 Estimation of coverage probabilities and distinct counts from sketched data:
+- [Frequency and cardinality recovery from sketched data](/publication/2023-frequency-recovery)
 - [BNP estimation of coverage probabilities from sketched data](/publication/2022-bnp-sketch)
 - [Conformalized sketching under relaxed exchangeability](/publication/2022-conf-sketch-relaxed)
 - [Conformalized sketching](/publication/2022-conf-sketch)
@@ -71,6 +72,11 @@ Estimation of coverage probabilities and distinct counts from sketched data:
 
 Genome-wide association studies measure, from large numbers of people, hundreds of thousands of simple genetic mutations across the entire genome and compare them to interesting phenotypes (e.g., blood pressure, cholesterol levels, diabetes, and many other diseases), with the goal of better understanding the underlying biology and heritability.
 From a statistician's perspective, this problem can at first be seen as a special instance of high-dimensional variable selection, although genetic data are extremely high-dimensional and display a particular structure (hidden Markov models) that raises unique challenges as well as opportunities.
+
+One of my main contributions in this field was the development of [KnockoffGWAS](https://msesia.github.io/knockoffgwas/index.html), a powerful and versatile statistical method for the analysis of genome-wide association data with population structure.
+
+
+
 
 <p align="center">
   <img src="/images/digital_twin.png" width="600"><br><br>
