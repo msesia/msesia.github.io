@@ -26,6 +26,7 @@ minimize different loss functions. Left: intact image of a ship. Right: corrupte
 </p>
 
 Relevant papers: 
+- [Forecasting heterogeneous trajectories](/publication/2024-heterogeneous-forecasting)
 - [Adaptive conformal classification with noisy labels](/publication/2023-conformal-label-noise)
 - [De-randomized FDR control with conformal e-values](/publication/2023-c-fdr-evals)
 - [Conformalized early stopping](/publication/2023-early-stopping)
