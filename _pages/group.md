@@ -13,7 +13,12 @@ redirect_from:
 ### Current PhD students
 
 
-- Ziyi (Cora) Liang (Mathematics)
+- Ziyi Liang (Mathematics)
 - Yanfei Zhou. (Data Sciences and Operations)
 - Tianmin Xie. (Data Sciences and Operations)
 
+
+
+### Current visitors
+
+- Chiara Magnani (PhD student, University of Milano Bicocca).

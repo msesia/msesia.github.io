@@ -69,6 +69,8 @@ Estimation of coverage probabilities and distinct counts from sketched data:
 
 ## Methodology and applications
 
+
+
 ### Statistical genetics
 
 Genome-wide association studies measure, from large numbers of people, hundreds of thousands of simple genetic mutations across the entire genome and compare them to interesting phenotypes (e.g., blood pressure, cholesterol levels, diabetes, and many other diseases), with the goal of better understanding the underlying biology and heritability.
@@ -108,3 +110,11 @@ Relevant papers:
 - [Circulating tumor cells](/publication/2022-long-term)
 - [Bacterial classification from Raman spectra](/publication/2021-raman)
 - [Hyperoxemia among pediatric intensive care unit patients](/publication/2021-hyperoxemia)
+
+### Language models
+
+Uncertainty estimation in language models is a new interest on which I started working only recently.
+
+
+Relevant papers: 
+- [Uncertainty in Language Models: Assessment through Rank-Calibration](/publication/2024-llm-rank-calibration)
