@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-heterogeneous-forecasting
 excerpt: ''
 date: 2024-02-14
-venue: 'pre-print'
+venue: 'Proceedings of the 41th International Conference on Machine Learning (recently accepted)'
 ---
 
 **Abstract**
