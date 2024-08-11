@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research group"
+title: "Research Group"
 permalink: /group/
 author_profile: true
 redirect_from:
@@ -9,16 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
+---
 
-### Current PhD students
+### Current PhD Students
 
+- **Yanfei Zhou**  (4th year) <br>
+  Department: Data Sciences and Operations  
+  Research Focus: Conformal Prediction and Machine Learning
 
-- Ziyi Liang (Mathematics)
-- Yanfei Zhou. (Data Sciences and Operations)
-- Tianmin Xie. (Data Sciences and Operations)
+- **Tianmin Xie** (3rd year)  <br>
+  Department: Data Sciences and Operations  
+  Research Focus: Conformal Inference
 
+---
 
+### Past PhD Students
 
-### Current visitors
+- **Ziyi Liang**  
+  Department: Mathematics  
+  Graduated: 2024  
+  Current Position: Post-doctoral Researcher at University of California, Irvine  
+  Research Focus: Multiple Testing and Conformal Inference
 
-- Chiara Magnani (PhD student, University of Milano Bicocca).
+---
+
+### Current Visitors
+
+- **Teresa Bortolotti**  
+  Institution: Polytechnic University of Milano (PhD Student)
+  Research Focus: Conformal Inference
+
+---
+
+### Past Visitors
+
+- **Chiara Magnani**  
+  Institution: University of Milano Bicocca (PhD Student)
+  Visiting Period: January - June 2024  
+  Research Focus: Distribution-Free Inference
+
+---
+
