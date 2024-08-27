@@ -26,6 +26,7 @@ minimize different loss functions. Left: intact image of a ship. Right: corrupte
 </p>
 
 Relevant papers: 
+- [Collective outlier detection](/publication/2024-collective-outlier-detection)
 - [Conformal classification with equalized coverage for adaptively selected groups](/publication/2024-adaptive-fairness)
 - [Structured matrix completion](/publication/2024-structured-matrix-completion)
 - [Forecasting heterogeneous trajectories](/publication/2024-heterogeneous-forecasting)
@@ -63,8 +64,8 @@ Relevant papers:
 ### Other more recent topics
 
 Estimation of coverage probabilities and distinct counts from sketched data:
-- [Frequency and cardinality recovery from sketched data](/publication/2023-frequency-recovery)
-- [BNP estimation of coverage probabilities from sketched data](/publication/2022-bnp-sketch)
+- [BNP frequency recovery from sketches data](/publication/2024-random-measure-priors)
+- [Frequency and cardinality recovery from sketched data] (/publication/2023-frequency-recovery)
 - [Conformalized sketching under relaxed exchangeability](/publication/2022-conf-sketch-relaxed)
 - [Conformalized sketching](/publication/2022-conf-sketch)
 
