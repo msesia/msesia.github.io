@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-adaptive-fairness
 excerpt: ''
 date: 2024-05-23
-venue: 'arXiv preprint'
+venue: 'Advances in Neural Information Processing Systems 37 (NeurIPS), 2024'
 ---
 
 **Abstract**

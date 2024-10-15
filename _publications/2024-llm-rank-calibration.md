@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-llm-rank-calibration
 excerpt: ''
 date: 2024-04-04
-venue: 'pre-print'
+venue: 'Conference on Empirical Methods in Natural Language Processing, 2024'
 ---
 
 **Abstract**
