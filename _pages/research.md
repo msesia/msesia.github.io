@@ -54,7 +54,7 @@ I am broadly interested in developing methods that can perform statistically pri
 </p>
 
 Relevant papers:
-- [Subgroup-selective knockoff filter](/publication/2022-sskf)
+- [Local knockoff filter](/publication/2022-sskf)
 - [Transfer learning with knockoffs](/publication/2021-transfer)
 - [Multi-environment knockoff filter](/publication/2021-mekf)
 - [Deep knockoffs](/publication/2019-deep-knockoffs)
@@ -90,6 +90,7 @@ One of my main contributions in this field was the development of [KnockoffGWAS]
 </p>
 
 Relevant papers: 
+- [Local knockoff filter](/publication/2022-sskf)
 - [Transfer learning with knockoffs](/publication/2021-transfer)
 - [Multi-environment knockoff filter](/publication/2021-mekf)
 - [KnockoffGWAS](/publication/2020-knockoffgwas)

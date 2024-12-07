@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-conformal-label-noise
 excerpt: ''
 date: 2023-09-10
-venue: 'pre-print'
+venue: 'Journal of the Royal Statistical Society: Series B'
 ---
 
 **Abstract**
