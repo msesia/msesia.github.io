@@ -26,6 +26,7 @@ minimize different loss functions. Left: intact image of a ship. Right: corrupte
 </p>
 
 Relevant papers: 
+- [Conformalized survival analysis under right-censoring](/publication/2024-survival)
 - [Collective outlier detection](/publication/2024-collective-outlier-detection)
 - [Conformal classification with equalized coverage for adaptively selected groups](/publication/2024-adaptive-fairness)
 - [Structured matrix completion](/publication/2024-structured-matrix-completion)

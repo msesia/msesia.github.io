@@ -3,7 +3,7 @@ title: "Adaptive conformal classification with noisy labels"
 collection: publications
 permalink: /publication/2023-conformal-label-noise
 excerpt: ''
-date: 2023-09-10
+date: 2024-12-01
 venue: 'Journal of the Royal Statistical Society: Series B'
 ---
 
