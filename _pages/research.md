@@ -26,6 +26,7 @@ minimize different loss functions. Left: intact image of a ship. Right: corrupte
 </p>
 
 Relevant papers: 
+- [Noise-Adaptive Conformal Classification with Marginal Coverage](/publication/2025-marginal-label-noise)
 - [Conformalized survival analysis under right-censoring](/publication/2024-survival)
 - [Collective outlier detection](/publication/2024-collective-outlier-detection)
 - [Conformal classification with equalized coverage for adaptively selected groups](/publication/2024-adaptive-fairness)
