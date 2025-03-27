@@ -1,0 +1,14 @@
+@InProceedings{pmlr-v235-zhou24l,
+  title = 	 {Conformalized Adaptive Forecasting of Heterogeneous Trajectories},
+  author =       {Zhou, Yanfei and Lindemann, Lars and Sesia, Matteo},
+  booktitle = 	 {Proceedings of the 41st International Conference on Machine Learning},
+  pages = 	 {62002--62056},
+  year = 	 {2024},
+  editor = 	 {Salakhutdinov, Ruslan and Kolter, Zico and Heller, Katherine and Weller, Adrian and Oliver, Nuria and Scarlett, Jonathan and Berkenkamp, Felix},
+  volume = 	 {235},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {21--27 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v235/main/assets/zhou24l/zhou24l.pdf},
+  url = 	 {https://proceedings.mlr.press/v235/zhou24l.html}
+}

@@ -1,5 +1,5 @@
 ---
-title: "Stats 390, Consulting Workshop"
+title: "Consulting Workshop (Stats 390)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2018-summer

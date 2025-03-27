@@ -1,5 +1,5 @@
 ---
-title: "GSBA 524, Data Science for Business"
+title: "Data Science for Business (GSBA 524)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-spring

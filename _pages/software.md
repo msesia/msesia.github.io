@@ -7,8 +7,6 @@ redirect_from:
   - /software
 ---
 
-{% include base_path %}
-
 
 Selected projects:
 

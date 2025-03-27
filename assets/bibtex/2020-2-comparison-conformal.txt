@@ -1,0 +1,10 @@
+@article{sesia2020comparison,
+  title={A comparison of some conformal quantile regression methods},
+  author={Sesia, Matteo and Cand{\`e}s, Emmanuel J},
+  journal={Stat},
+  volume={9},
+  number={1},
+  pages={e261},
+  year={2020},
+  publisher={Wiley Online Library}
+}

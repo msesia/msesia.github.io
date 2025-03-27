@@ -1,30 +1,28 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+layout: single
+title: "Curriculum Vitae"
 author_profile: true
-redirect_from:
-  - /resume
+permalink: /cv/
 ---
-
-{% include base_path %}
 
 ### Employment
 
-* January 2023 - present
-  * Assistant Professor of Computer Science (by courtesy)
-  * University of Southern California, Viterbi School of Engineering
+🧑‍🏫 **Assistant Professor of Data Sciences and Operations**  
+🏛️ *USC Marshall School of Business*  
+🗓️ June 2020 – Present
 
-* June 2020 - present
-  * Assistant Professor of Data Sciences and Operations
-  * University of Southern California, Marshall School of Business
+🧑‍🏫 **Assistant Professor of Computer Science (by courtesy)**  
+🏛️ *USC Viterbi School of Engineering*  
+🗓️ January 2023 – Present
+
+---
+
+### Education 
+
+- 🎓 **Ph.D. in Statistics**, [Stanford University](https://statistics.stanford.edu/) — *2020*
+-  M.S. in Physics of Complex Systems<br> [Politecnico di Torino](https://www.polito.it/index.php?lang=en) and [Université Paris-Sud](https://www.universite-paris-saclay.fr/en) — *2015*
+-  M.A. in Statistics and Applied Mathematics<br> [Collegio Carlo Alberto](https://www.carloalberto.org/) — *2015*
+-  B.S. in Engineering Physics<br> [Politecnico di Torino](https://www.polito.it/index.php?lang=en) — *2013*
 
 
-### Education
-
-* Ph.D in Statistics, [Stanford University](https://statistics.stanford.edu/), 2020.
-* M.S. in Physics of Complex Systems, [Politecnico di Torino](https://www.polito.it/index.php?lang=en) and [Université Paris-Sud](https://www.universite-paris-saclay.fr/en) (joint), 2015.
-* M.A. in Statistics and Applied Mathematics, [Collegio Carlo Alberto](https://www.carloalberto.org/), 2015.
-* B.S. in Engineering Physics, [Politecnico di Torino](https://www.polito.it/index.php?lang=en), 2013.
-
-[Download full CV](http://msesia.github.io/files/cv_matteo_sesia.pdf)
+## [Download full CV (PDF)](/assets/cv_matteo_sesia.pdf)

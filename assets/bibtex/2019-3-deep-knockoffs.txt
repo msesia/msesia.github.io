@@ -1,0 +1,10 @@
+@article{romano2020deep,
+  title={Deep knockoffs},
+  author={Romano, Yaniv and Sesia, Matteo and Cand{\`e}s, Emmanuel},
+  journal={Journal of the American Statistical Association},
+  volume={115},
+  number={532},
+  pages={1861--1872},
+  year={2020},
+  publisher={Taylor \& Francis}
+}

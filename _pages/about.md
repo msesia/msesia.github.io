@@ -1,14 +1,11 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
+layout: single
+title: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /about/
 ---
 
-Im an assistant professor in the [Department of Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations) at the [USC Marshall School of Business](https://www.marshall.usc.edu/)
+I'm an assistant professor in the [Department of Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations) at the [USC Marshall School of Business](https://www.marshall.usc.edu/)
 I am also honored to hold the Kenneth King Stonier Assistant Professorship in Business Administration, and a secondary appointment as Assistant Professor of [Computer Science](https://www.cs.usc.edu/) in the [Viterbi School of Engineering](https://viterbischool.usc.edu/).
 
 Prior to joining USC, I earned a PhD in Statistics in 2020 from Stanford University, advised by [Emmanuel Candès](https://profiles.stanford.edu/emmanuel-candes).

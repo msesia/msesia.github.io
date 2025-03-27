@@ -1,0 +1,8 @@
+@inproceedings{zhou2024conformal,
+  title     = {Conformal Classification with Equalized Coverage for Adaptively Selected Groups},
+  author    = {Zhou, Yanfei and Sesia, Matteo},
+  booktitle = {Advances in Neural Information Processing Systems 37 (NeurIPS)},
+  year      = {2024},
+  note      = {To appear},
+  url       = {https://arxiv.org/abs/2405.15106}
+}

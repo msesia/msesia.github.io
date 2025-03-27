@@ -1,5 +1,5 @@
 ---
-title: "Stats 195, Introduction to R"
+title: "Introduction to R (Stats 195)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring

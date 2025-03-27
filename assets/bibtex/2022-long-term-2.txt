@@ -1,0 +1,10 @@
+@article{juratli2022long,
+  title={Long-term effect of liver resection on circulating stem cells expressing PD-L1 in patients with hepatocellular carcinoma--Pilot study},
+  author={Juratli, MA and Roy, D and Oppermann, E and Sesia, M and Schnitzbauer, A and H{\"o}lzen, J and Katou, S and Morg{\"u}l, H and Str{\"u}cker, B and Pascher, A and others},
+  journal={Zeitschrift f{\"u}r Gastroenterologie},
+  volume={60},
+  number={08},
+  pages={KA217},
+  year={2022},
+  publisher={Georg Thieme Verlag}
+}

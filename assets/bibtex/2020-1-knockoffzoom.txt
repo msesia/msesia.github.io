@@ -1,0 +1,10 @@
+@article{sesia2020multi,
+  title={Multi-resolution localization of causal variants across the genome},
+  author={Sesia, Matteo and Katsevich, Eugene and Bates, Stephen and Cand{\`e}s, Emmanuel and Sabatti, Chiara},
+  journal={Nature communications},
+  volume={11},
+  number={1},
+  pages={1093},
+  year={2020},
+  publisher={Nature Publishing Group UK London}
+}

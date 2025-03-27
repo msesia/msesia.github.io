@@ -1,0 +1,11 @@
+@inproceedings{NEURIPS2022_2b2011a7,
+ author = {Sesia, Matteo and Favaro, Stefano},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {S. Koyejo and S. Mohamed and A. Agarwal and D. Belgrave and K. Cho and A. Oh},
+ pages = {6589--6602},
+ publisher = {Curran Associates, Inc.},
+ title = {Conformal Frequency Estimation with Sketched Data},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2022/file/2b2011a7d5396faf5899863d896a3c24-Paper-Conference.pdf},
+ volume = {35},
+ year = {2022}
+}

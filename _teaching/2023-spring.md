@@ -1,5 +1,5 @@
 ---
-title: "GSBA 506b, Applied Managerial Statistics"
+title: "Applied Managerial Statistics (GSBA 506b)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-spring

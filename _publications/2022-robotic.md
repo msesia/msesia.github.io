@@ -1,14 +1,11 @@
 ---
-title: "Robotic-assisted esophagectomy leads to significant reduction in postoperative acute pain: A retrospective clinical trial"
-collection: publications
-permalink: /publication/2022-robotic
-excerpt: ''
-date: 2022-11-01
-venue: 'Annals of Surgical Oncology'
+title: 'Robotic-assisted esophagectomy leads to significant reduction in postoperative
+  acute pain: A retrospective clinical trial'
+authors: "J. Hoelzen, K. Sander, M. Sesia, D. Roy, E. Rijcken, A. Schnabel, B. Str\xA8\
+  ucker, M. Juratli, A. Pascher"
+venue: Annals of Surgical Oncology
+year: '2022'
+bibtex: /assets/bibtex/2022-robotic.txt
+published: https://link.springer.com/article/10.1245/s10434-022-12200-0
+icon: 🩺
 ---
-
-**Abstract**
-
-Robot-assisted minimally invasive esophagectomy (RAMIE) shows promising results regarding postoperative complications in patients with esophageal cancer. To date, no data are available regarding postoperative analgesic consumption. The aim of this work is to evaluate analgesic consumption after esophagectomy.
-
-[Download paper here](https://link.springer.com/article/10.1245/s10434-022-12200-0)

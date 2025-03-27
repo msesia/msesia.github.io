@@ -1,0 +1,11 @@
+@inproceedings{NEURIPS2022_8c96b559,
+ author = {Einbinder, Bat-Sheva and Romano, Yaniv and Sesia, Matteo and Zhou, Yanfei},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {S. Koyejo and S. Mohamed and A. Agarwal and D. Belgrave and K. Cho and A. Oh},
+ pages = {22380--22395},
+ publisher = {Curran Associates, Inc.},
+ title = {Training Uncertainty-Aware Classifiers with Conformalized Deep Learning},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2022/file/8c96b559340daa7bb29f56ccfbbc9c2f-Paper-Conference.pdf},
+ volume = {35},
+ year = {2022}
+}

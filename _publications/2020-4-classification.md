@@ -1,14 +1,10 @@
 ---
-title: "Classification with valid and adaptive coverage"
-collection: publications
-permalink: /publication/2020-classification
-excerpt: ''
-date: 2020-06-01
-venue: 'Advances in Neural Information Processing Systems 33 (NeurIPS, spotlight presentation)'
+title: Classification with valid and adaptive coverage
+authors: "Y. Romano, M. Sesia, E. Cand\xE8s"
+venue: Advances in Neural Information Processing Systems 33 (NeurIPS)
+year: '2020'
+bibtex: /assets/bibtex/2020-4-classification.txt
+preprint: https://arxiv.org/abs/2006.02544
+published: https://papers.nips.cc/paper/2020/hash/244edd7e85dc81602b7615cd705545f5-Abstract.html
+icon: 🎯
 ---
-
-**Abstract**
-
-Conformal inference, cross-validation+, and the jackknife+ are hold-out methods that can be combined with virtually any machine learning algorithm to construct prediction sets with guaranteed marginal coverage. In this paper, we develop specialized versions of these techniques for categorical and unordered response labels that, in addition to providing marginal coverage, are also fully adaptive to complex data distributions, in the sense that they perform favorably in terms of approximate conditional coverage compared to alternative methods. The heart of our contribution is a novel conformity score, which we explicitly demonstrate to be powerful and intuitive for classification problems, but whose underlying principle is potentially far more general. Experiments on synthetic and real data demonstrate the practical value of our theoretical guarantees, as well as the statistical advantages of the proposed methods over the existing alternatives.
-
-[Download paper here](http://msesia.github.io/files/adaptive-classification.pdf)
