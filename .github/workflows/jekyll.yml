@@ -2,7 +2,7 @@ name: Build and Deploy Jekyll site
 
 on:
   push:
-    branches: [main]  # Change to `master` if you're using that
+    branches: [master]  # Change to `main` if you're using that
 
 jobs:
   jekyll:
