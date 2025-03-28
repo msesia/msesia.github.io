@@ -1,0 +1,10 @@
+@article{li2022searching,
+  title={Searching for robust associations with a multi-environment knockoff filter},
+  author={Li, Shuangning and Sesia, Matteo and Romano, Yaniv and Candes, Emmanuel and Sabatti, Chiara},
+  journal={Biometrika},
+  volume={109},
+  number={3},
+  pages={611--629},
+  year={2022},
+  publisher={Oxford University Press}
+}

@@ -1,0 +1,6 @@
+@article{beraha2023smoothed,
+  title={A smoothed-Bayesian approach to frequency recovery from sketched data},
+  author={Beraha, Mario and Favaro, Stefano and Sesia, Matteo},
+  journal={arXiv preprint arXiv:2309.15408},
+  year={2023}
+}

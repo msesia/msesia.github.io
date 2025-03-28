@@ -1,0 +1,6 @@
+@article{sesia2024doubly,
+  title={Doubly Robust Conformalized Survival Analysis with Right-Censored Data},
+  author={Sesia, Matteo and Svetnik, Vladimir},
+  journal={arXiv preprint arXiv:2412.09729},
+  year={2024}
+}

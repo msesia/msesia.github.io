@@ -1,0 +1,10 @@
+@article{hoelzen2022robotic,
+  title={Robotic-assisted esophagectomy leads to significant reduction in postoperative acute pain: a retrospective clinical trial},
+  author={Hoelzen, Jens P and Sander, Karl J and Sesia, Matteo and Roy, Dhruvajyoti and Rijcken, Emile and Schnabel, Alexander and Struecker, Benjamin and Juratli, Mazen A and Pascher, Andreas},
+  journal={Annals of surgical oncology},
+  volume={29},
+  number={12},
+  pages={7498--7509},
+  year={2022},
+  publisher={Springer}
+}

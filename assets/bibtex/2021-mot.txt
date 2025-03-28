@@ -1,0 +1,10 @@
+@article{bates2023testing,
+  title={Testing for outliers with conformal p-values},
+  author={Bates, Stephen and Cand{\`e}s, Emmanuel and Lei, Lihua and Romano, Yaniv and Sesia, Matteo},
+  journal={The Annals of Statistics},
+  volume={51},
+  number={1},
+  pages={149--178},
+  year={2023},
+  publisher={Institute of Mathematical Statistics}
+}

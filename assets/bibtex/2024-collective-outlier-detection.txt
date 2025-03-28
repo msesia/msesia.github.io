@@ -1,0 +1,6 @@
+@article{magnani2023collective,
+  title={Collective Outlier Detection and Enumeration with Conformalized Closed Testing},
+  author={Magnani, Chiara G and Sesia, Matteo and Solari, Aldo},
+  journal={arXiv preprint arXiv:2308.05534},
+  year={2023}
+}

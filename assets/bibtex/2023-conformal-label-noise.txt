@@ -1,0 +1,8 @@
+@article{sesia2024adaptive,
+  title={Adaptive conformal classification with noisy labels},
+  author={Sesia, Matteo and Wang, YX Rachel and Tong, Xin},
+  journal={Journal of the Royal Statistical Society Series B: Statistical Methodology},
+  pages={qkae114},
+  year={2024},
+  publisher={Oxford University Press UK}
+}

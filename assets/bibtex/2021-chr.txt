@@ -1,0 +1,11 @@
+@inproceedings{NEURIPS2021_31b3b31a,
+ author = {Sesia, Matteo and Romano, Yaniv},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+ pages = {6304--6315},
+ publisher = {Curran Associates, Inc.},
+ title = {Conformal Prediction using Conditional Histograms},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2021/file/31b3b31a1c2f8a370206f111127c0dbd-Paper.pdf},
+ volume = {34},
+ year = {2021}
+}

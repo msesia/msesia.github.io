@@ -1,0 +1,10 @@
+@article{fayazi2024hyperoxemia,
+  title={Hyperoxemia among pediatric intensive care unit patients receiving oxygen therapy},
+  author={Fayazi, Azadeh R and Sesia, Matteo and Anand, Kanwaljeet JS},
+  journal={Journal of Pediatric Intensive Care},
+  volume={13},
+  number={02},
+  pages={184--191},
+  year={2024},
+  publisher={Georg Thieme Verlag KG}
+}

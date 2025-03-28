@@ -1,0 +1,11 @@
+@inproceedings{NEURIPS2023_cec8ad77,
+ author = {Bashari, Meshi and Epstein, Amir and Romano, Yaniv and Sesia, Matteo},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Oh and T. Naumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},
+ pages = {65585--65596},
+ publisher = {Curran Associates, Inc.},
+ title = {Derandomized novelty detection with FDR control via conformal e-values},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/cec8ad7715d0d13899d5d7d31970f527-Paper-Conference.pdf},
+ volume = {36},
+ year = {2023}
+}

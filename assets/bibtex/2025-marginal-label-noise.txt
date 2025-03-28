@@ -1,0 +1,6 @@
+@article{bortolotti2025noise,
+  title={Noise-Adaptive Conformal Classification with Marginal Coverage},
+  author={Bortolotti, Teresa and Wang, YX and Tong, Xin and Menafoglio, Alessandra and Vantini, Simone and Sesia, Matteo},
+  journal={arXiv preprint arXiv:2501.18060},
+  year={2025}
+}

@@ -1,0 +1,10 @@
+@article{juratli2022long,
+  title={Long-term dynamics of circulating tumor cells and their prognostic relevance after liver resection in patients with hepatocellular carcinoma},
+  author={Juratli, MA and Roy, D and Oppermann, E and Sesia, M and Schnitzbauer, A and H{\"o}lzen, J and Katou, S and Morg{\"u}l, H and Str{\"u}cker, B and Pascher, A and others},
+  journal={Zeitschrift f{\"u}r Gastroenterologie},
+  volume={60},
+  number={08},
+  pages={KA323},
+  year={2022},
+  publisher={Georg Thieme Verlag}
+}

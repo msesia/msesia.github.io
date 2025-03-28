@@ -1,0 +1,10 @@
+@article{chia2021interpretable,
+  title={Interpretable classification of bacterial Raman spectra with knockoff wavelets},
+  author={Chia, Charmaine and Sesia, Matteo and Ho, Chi-Sing and Jeffrey, Stefanie S and Dionne, Jennifer and Candes, Emmanuel J and Howe, Roger T},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  volume={26},
+  number={2},
+  pages={740--748},
+  year={2021},
+  publisher={IEEE}
+}

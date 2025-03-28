@@ -1,0 +1,8 @@
+@article{li2022transfer,
+  title={Transfer learning in genome-wide association studies with knockoffs},
+  author={Li, Shuangning and Ren, Zhimei and Sabatti, Chiara and Sesia, Matteo},
+  journal={Sankhya B},
+  pages={1--39},
+  year={2022},
+  publisher={Springer}
+}
