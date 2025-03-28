@@ -11,11 +11,11 @@ redirect_from:
 
 ## 🎓 Current Ph.D. Students
 
-**Yanfei Zhou** (4th year)  
+[**Yanfei Zhou**](https://sites.google.com/usc.edu/yanfeizhou) (4th year)  
 _Department: Data Sciences and Operations_  
 Research Focus: Conformal Prediction and Machine Learning
 
-**Tianmin Xie** (3rd year)  
+[**Tianmin Xie**](https://www.marshall.usc.edu/personnel/tianmin-xie) (3rd year)  
 _Department: Data Sciences and Operations_  
 Research Focus: Conformal Inference
 
