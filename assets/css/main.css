@@ -11,6 +11,26 @@
   border-radius: 50%;
 }
 
+.author__urls li {
+  display: flex;
+  align-items: center;
+  line-height: 1.4;
+}
+
+.author__urls li a {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.95em;
+}
+
+.author__urls li i,
+.author__urls li svg {
+  font-size: 1.1em;
+  min-width: 1.2em;
+  text-align: center;
+}
+
 /* ==========================================================================
    Contrast skin
    ========================================================================== */
