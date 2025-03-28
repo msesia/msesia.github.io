@@ -3,6 +3,7 @@ layout: archive
 title: "Software"
 permalink: /software/
 author_profile: true
+classes: wide custom-font
 redirect_from:
   - /software
 ---
