@@ -1,4 +1,16 @@
 @charset "UTF-8";
+.author__avatar {
+  width: 180px !important;
+  height: auto;
+}
+
+.author__avatar img {
+  width: 180px !important;
+  height: auto;
+  max-width: none !important;
+  border-radius: 50%;
+}
+
 /* ==========================================================================
    Contrast skin
    ========================================================================== */
