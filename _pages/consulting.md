@@ -9,7 +9,7 @@ redirect_from:
 
 
 Interested in working together?
-I’m happy to offer a free initial consultation to discuss your project and explore how I may be able to help. Feel free to reach out at [sesia@pvalueconsulting.llc](sesia@pvalueconsulting.llc) for more information.
+I’m happy to offer a free initial consultation to discuss your project and explore how I may be able to help. Feel free to reach out at *sesia@pvalueconsulting.llc* for more information.
 
 Over the past several years, I’ve provided statistical consulting across academia, industry, and publishing. My experience spans a range of real-world applications—from analyzing government crime data for a published nonfiction book, to developing modern, research-grade inference tools for a global pharmaceutical company.
 
