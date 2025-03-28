@@ -16,6 +16,9 @@ minimal_mistakes_skin: contrast
 markdown: kramdown
 highlighter: rouge
 
+head_scripts:
+  - https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css
+
 author:
   name   : "Matteo Sesia"
   avatar : "/assets/images/headshot.jpg"
@@ -23,9 +26,10 @@ author:
     Statistician and Data Scientist.  
     Assistant Professor at the University of Southern California.
 
-  location : "Los Angeles, CA"
-  email    : "sesia@marshall.usc.edu"
   links:
+    - label: "Los Angeles"
+      icon: "fas fa-map-marker-alt"
+      url: "https://maps.google.com/?q=Los+Angeles"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/msesia"
@@ -35,6 +39,8 @@ author:
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0001-9046-907X"
+
+  email    : "sesia@marshall.usc.edu"
 
 include:
   - .htaccess
@@ -55,3 +61,4 @@ collections:
   teaching:
     output: true
     permalink: /teaching/:title/
+
