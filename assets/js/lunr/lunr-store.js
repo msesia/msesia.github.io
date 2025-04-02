@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Curriculum Vitae",
-        "excerpt":"Employment 🧑‍🏫 Assistant Professor of Data Sciences and Operations 🏛️ USC Marshall School of Business 🗓️ June 2020 – Present 🧑‍🏫 Assistant Professor of Computer Science (by courtesy) 🏛️ USC Viterbi School of Engineering 🗓️ January 2023 – Present Education 🎓 Ph.D. in Statistics, Stanford University — 2020 M.S. in...","categories": [],
+        "excerpt":"Employment University of Southern California 🏛️Marshall School of Business 🧑‍🏫 Associate Professor of Data Sciences and Operations April 2025 – Present 🧑‍🏫 Assistant Professor of Data Sciences and Operations June 2020 – April 2025 🏛️ Viterbi School of Engineering 🧑‍🏫 Assistant Professor of Computer Science (by courtesy) January 2023 –...","categories": [],
         "tags": [],
         "url": "/cv/",
         "teaser": null
