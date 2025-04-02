@@ -7,13 +7,16 @@ permalink: /cv/
 
 ### Employment
 
-🧑‍🏫 **Assistant Professor of Data Sciences and Operations**  
-🏛️ *USC Marshall School of Business*  
-🗓️ June 2020 – Present
+**University of Southern California**  
+🏛️*Marshall School of Business*  
+- 🧑‍🏫 **Associate Professor of Data Sciences and Operations**  
+  *April 2025 – Present*  
+- 🧑‍🏫 Assistant Professor of Data Sciences and Operations
+  *June 2020 – April 2025*
 
-🧑‍🏫 **Assistant Professor of Computer Science (by courtesy)**  
-🏛️ *USC Viterbi School of Engineering*  
-🗓️ January 2023 – Present
+🏛️ *Viterbi School of Engineering*  
+- 🧑‍🏫 **Assistant Professor of Computer Science (by courtesy)**  
+  *January 2023 – Present*
 
 ---
 
