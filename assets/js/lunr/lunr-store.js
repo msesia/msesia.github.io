@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2025 Robust Conformal Outlier Detection under Contaminated Reference Data 🎯 M. Bashari, M. Sesia, Y. Romano pre-print, 2025 [Preprint] [BibTeX] Noise-Adaptive Conformal Classification with Marginal Coverage 🎯 T. Bortolotti, Y. X. R. Wang, X. Tong, A. Menafoglio, S. Vantini, M. Sesia pre-print, 2025 [Preprint] [BibTeX] 2024 Doubly Robust Conformalized Survival...","categories": [],
+        "excerpt":"2025 Robust Conformal Outlier Detection under Contaminated Reference Data 🎯 M. Bashari, M. Sesia, Y. Romano pre-print, 2025 [Preprint] [BibTeX] Noise-Adaptive Conformal Classification with Marginal Coverage 🎯 T. Bortolotti, Y. X. R. Wang, X. Tong, A. Menafoglio, S. Vantini, M. Sesia pre-print, 2025 [Preprint] [BibTeX] A smoothed-Bayesian approach to frequency...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
