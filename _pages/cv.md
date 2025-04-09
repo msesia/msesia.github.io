@@ -9,7 +9,7 @@ classes: wide custom-font
 ### Employment
 
 **University of Southern California**  
-🏛️*Marshall School of Business*  
+🏛️ *Marshall School of Business*  
 - 🧑‍🏫 **Associate Professor of Data Sciences and Operations**  
   *April 2025 – Present*  
 - 🧑‍🏫 Assistant Professor of Data Sciences and Operations
