@@ -14,10 +14,10 @@ Before joining USC, I completed my Ph.D. in Statistics at Stanford University in
 
 My research focuses on developing statistically rigorous and practically useful methods for analyzing complex, high-dimensional data using modern machine learning models. I am particularly interested in problems where traditional modeling assumptions are hard to justify—a situation that arises more frequently as data grow in scale and complexity, and as increasingly sophisticated AI models are applied in sensitive, high-stakes domains.
 
-A central theme in my work is *distribution-free* and *model-agnostic* inference. These methods are designed to work alongside complex machine learning models to identify important variables, ensure reproducibility, and quantify uncertainty, without relying on strong or unrealistic assumptions.
+A central theme in my work is *distribution-free* and *model-agnostic* inference. These methods are designed to work alongside complex machine learning models to **identify important variables**, **ensure reproducibility**, and **quantify uncertainty**, all while relying on **defensible assumptions**.
 Because they are grounded in fundamental statistical principles rather than tied to specific models or rigid distributional assumptions, these tools are highly adaptable and likely to remain relevant as AI continues to evolve. 
 
-I also work as a consultant and expert collaborator in both academic and industry settings, helping to design reproducible analyses, quantify uncertainty in complex models, and communicate results clearly—especially in contexts where transparency and scientific defensibility are critical.
+I also work as a **consultant** and expert collaborator in both academic and industry settings, helping to design reproducible data analyses, quantify uncertainty in complex models, and communicate results clearly to diverse audiences—especially in contexts where transparency and scientific defensibility are critical.
 
 ---
 
