@@ -6,5 +6,7 @@ year: '2020'
 bibtex: /assets/bibtex/2020-3-trio-studies.txt
 preprint: https://arxiv.org/abs/2002.09644
 published: https://doi.org/10.1073/pnas.2007743117
-icon: 🔍🧬
+topics:
+  - reproducible-variable-selection
+  - statistical-genetics
 ---

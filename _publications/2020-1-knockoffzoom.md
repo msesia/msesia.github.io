@@ -6,5 +6,7 @@ year: '2020'
 bibtex: /assets/bibtex/2020-1-knockoffzoom.txt
 preprint: https://doi.org/10.1101/631390 
 published: https://doi.org/10.1038/
-icon: 🔍🧬
+topics:
+  - reproducible-variable-selection
+  - statistical-genetics
 ---

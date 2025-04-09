@@ -6,5 +6,7 @@ year: '2021'
 bibtex: /assets/bibtex/2021-raman.txt
 preprint: https://arxiv.org/abs/2006.04937
 published: https://ieeexplore.ieee.org/document/9477158
-icon: 🔍🩺
+topics:
+  - reproducible-variable-selection
+  - biomedical-collaborations
 ---

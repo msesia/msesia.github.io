@@ -6,5 +6,6 @@ year: '2020'
 bibtex: /assets/bibtex/2019-3-deep-knockoffs.txt
 preprint: https://arxiv.org/abs/1811.06687
 published: https://doi.org/10.1080/01621459.2019.1660174
-icon: 🔍
+topics:
+  - reproducible-variable-selection
 ---

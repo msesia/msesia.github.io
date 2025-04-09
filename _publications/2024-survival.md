@@ -6,5 +6,6 @@ year: '2024'
 bibtex: /assets/bibtex/2024-survival.txt
 preprint: https://arxiv.org/abs/2412.09729
 published:
-icon: 🎯
+topics:
+  - uncertainty-quantification
 ---

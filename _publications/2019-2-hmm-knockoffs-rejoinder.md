@@ -6,5 +6,7 @@ year: '2019'
 bibtex: /assets/bibtex/2019-2-hmm-knockoffs-rejoinder.txt
 preprint: https://arxiv.org/abs/1903.05701
 published: https://doi.org/10.1093/biomet/asy075
-icon: 🔍🧬
+topics:
+  - reproducible-variable-selection
+  - statistical-genetics
 ---

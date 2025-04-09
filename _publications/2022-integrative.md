@@ -6,5 +6,6 @@ year: '2023'
 bibtex: /assets/bibtex/2022-integrative.txt
 preprint: https://arxiv.org/abs/2208.11111
 published: https://doi.org/10.1093/jrsssb/qkad138
-icon: 🎯
+topics:
+  - uncertainty-quantification
 ---

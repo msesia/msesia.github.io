@@ -6,5 +6,6 @@ year: '2025'
 bibtex: /assets/bibtex/2025-marginal-label-noise.txt
 preprint: https://arxiv.org/abs/2501.18060
 published:
-icon: 🎯
+topics:
+  - uncertainty-quantification
 ---

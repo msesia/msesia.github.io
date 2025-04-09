@@ -6,5 +6,6 @@ year: '2024'
 bibtex: /assets/bibtex/2023-conformal-label-noise.txt
 preprint: https://arxiv.org/abs/2309.05092
 published: https://doi.org/10.1093/jrsssb/qkae114
-icon: 🎯
+topics:
+  - uncertainty-quantification
 ---

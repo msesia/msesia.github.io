@@ -7,5 +7,6 @@ venue: Annals of Surgical Oncology
 year: '2022'
 bibtex: /assets/bibtex/2022-robotic.txt
 published: https://link.springer.com/article/10.1245/s10434-022-12200-0
-icon: 🩺
+topics:
+  - biomedical-collaborations
 ---

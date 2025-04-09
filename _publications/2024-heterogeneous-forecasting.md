@@ -6,5 +6,6 @@ year: '2024'
 bibtex: /assets/bibtex/2024-heterogeneous-forecasting.txt
 preprint: https://arxiv.org/abs/2402.09623
 published: https://proceedings.mlr.press/v235/zhou24l.html
-icon: 🎯
+topics:
+  - uncertainty-quantification
 ---

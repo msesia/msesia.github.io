@@ -6,5 +6,7 @@ year: '2021'
 bibtex: /assets/bibtex/2021-transfer.txt
 preprint: https://arxiv.org/abs/2108.08813
 published: https://link.springer.com/article/10.1007/s13571-022-00297-y
-icon: 🔍🧬
+topics:
+  - reproducible-variable-selection
+  - statistical-genetics
 ---

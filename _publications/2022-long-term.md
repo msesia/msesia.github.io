@@ -7,5 +7,6 @@ venue: "Zeitschrift f\xFCr Gastroenterologie"
 year: '2022'
 bibtex: /assets/bibtex/2022-long-term.txt
 published: https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0042-1754779
-icon: 🩺
+topics:
+  - biomedical-collaborations
 ---

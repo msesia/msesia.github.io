@@ -6,5 +6,6 @@ year: '2022'
 bibtex: /assets/bibtex/2022-conf-learn.txt
 preprint: https://arxiv.org/abs/2205.05878
 published: https://papers.nips.cc/paper_files/paper/2022/hash/8c96b559340daa7bb29f56ccfbbc9c2f-Abstract-Conference.html
-icon: 🎯
+topics:
+  - uncertainty-quantification
 ---

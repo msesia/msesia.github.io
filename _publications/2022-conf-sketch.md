@@ -6,5 +6,7 @@ year: '2022'
 bibtex: /assets/bibtex/2022-conf-sketch.txt
 preprint: https://arxiv.org/abs/2204.04270
 published: https://proceedings.neurips.cc/paper_files/paper/2022/hash/2b2011a7d5396faf5899863d896a3c24-Abstract-Conference.html
-icon: 🎯📊 
+topics:
+  - uncertainty-quantification
+  - data-sketching
 ---

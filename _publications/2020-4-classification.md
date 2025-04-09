@@ -6,5 +6,6 @@ year: '2020'
 bibtex: /assets/bibtex/2020-4-classification.txt
 preprint: https://arxiv.org/abs/2006.02544
 published: https://papers.nips.cc/paper/2020/hash/244edd7e85dc81602b7615cd705545f5-Abstract.html
-icon: 🎯
+topics:
+  - uncertainty-quantification
 ---

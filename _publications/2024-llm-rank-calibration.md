@@ -6,5 +6,7 @@ year: '2024'
 bibtex: /assets/bibtex/2024-llm-rank-calibration.txt
 preprint: https://arxiv.org/abs/2404.03163
 published: https://aclanthology.org/2024.emnlp-main.18
-icon: 🎯🧠
+topics:
+  - uncertainty-quantification
+  - llms
 ---

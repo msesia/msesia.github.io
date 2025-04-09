@@ -6,5 +6,6 @@ year: '2025'
 bibtex: /assets/bibtex/2023-frequency-recovery.txt
 preprint: https://arxiv.org/abs/2309.15408
 published:
-icon: 📊 
+topics:
+  - data-sketching
 ---

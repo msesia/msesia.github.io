@@ -6,5 +6,6 @@ year: '2023'
 bibtex: /assets/bibtex/2023-early-stopping.txt
 preprint: https://arxiv.org/abs/2301.11556
 published: https://proceedings.mlr.press/v202/liang23i.html
-icon: 🎯
+topics:
+  - uncertainty-quantification
 ---

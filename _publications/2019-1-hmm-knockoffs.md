@@ -6,5 +6,7 @@ year: '2019'
 bibtex: /assets/bibtex/2019-1-hmm-knockoffs.txt
 preprint: https://arxiv.org/abs/1706.04677
 published: https://doi.org/10.1093/biomet/asy075
-icon: 🔍🧬
+topics:
+  - reproducible-variable-selection
+  - statistical-genetics
 ---
