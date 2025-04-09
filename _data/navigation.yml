@@ -5,11 +5,11 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Teaching"
-    url: /teaching/
   - title: "Research Group"
     url: /group/
   - title: "Software"
     url: /software/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Consulting"
     url: /consulting/

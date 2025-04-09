@@ -34,7 +34,7 @@ Because these tools are grounded in fundamental statistical principles rather th
 
 #### Applied Work and Collaboration
 
-Beyond academic research, I serve as a consultant and expert collaborator in both academic and industry settings. I specialize in developing tailored statistical solutions, designing transparent and reproducible analyses, quantifying uncertainty in complex models, and clearly communicating statistical reasoning to diverse audiences. My work is especially relevant in contexts where flexible, data-driven models are deployed—but any errors may carry high costs and rigorous, defensible methodology is therefore essential.
+Beyond leading my research group at USC, I serve as a consultant and expert collaborator in both academic and industry settings. I specialize in developing tailored statistical solutions, designing transparent and reproducible analyses, quantifying uncertainty in complex models, and clearly communicating statistical reasoning to diverse audiences. My work is especially relevant in contexts where flexible, data-driven models are deployed—but any errors may carry high costs and rigorous, defensible methodology is therefore essential.
 
 
 
