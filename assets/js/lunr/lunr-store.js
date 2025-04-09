@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Curriculum Vitae",
-        "excerpt":"Employment University of Southern California 🏛️ Marshall School of Business 🧑‍🏫 Associate Professor of Data Sciences and Operations (tenured) April 2025 – Present 🧑‍🏫 Assistant Professor of Data Sciences and Operations (tenure-track) June 2020 – April 2025 🏛️ Viterbi School of Engineering 🧑‍🏫 Assistant Professor of Computer Science (by courtesy)...","categories": [],
+        "excerpt":"Employment University of Southern California 🏛️ Marshall School of Business Associate Professor of Data Sciences and Operations (tenured) 📅 April 2025 – Present Assistant Professor of Data Sciences and Operations (tenure-track) 📅 June 2020 – April 2025 🏛️ Viterbi School of Engineering Assistant Professor of Computer Science (by courtesy) 📅...","categories": [],
         "tags": [],
         "url": "/cv/",
         "teaser": null
