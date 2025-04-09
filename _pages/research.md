@@ -11,12 +11,12 @@ redirect_from:
 ## Research Overview
 
 > **Jump to:**  
-> - [Reproducible Variable Selection](#-reproducible-variable-selection)  
-> - [Uncertainty Quantification](#-uncertainty-quantification)  
-> - [Data Sketching and Frequency Recovery](#-data-sketching-and-frequency-recovery)  
-> - [Statistical Genetics](#-statistical-genetics)  
-> - [Biomedical Collaborations](#-biomedical-collaborations)  
-> - [Uncertainty Estimation for Language Models](#-uncertainty-estimation-for-language-models)
+> - [Reproducible Variable Selection](#reproducible-variable-selection)  
+> - [Uncertainty Quantification](#uncertainty-quantification)  
+> - [Data Sketching and Frequency Recovery](#data-sketching-and-frequency-recovery)  
+> - [Statistical Genetics](#statistical-genetics)  
+> - [Biomedical Collaborations](#biomedical-collaborations)  
+> - [Uncertainty Estimation for Language Models](#uncertainty-estimation-for-language-models)
 
 ---
 
@@ -51,8 +51,25 @@ A major focus of my research is on developing *distribution-free* and *model-agn
 
 
 <p align="center">
-  <img src="/assets/images/feature_importance.png" width="600"><br><br>
-  <em>Feature importance for irrelevant variables (left) and HMM knockoffs (right). From Sesia, Sabatti, and Candès (2019).</em>
+  <img src="/assets/images/knockoffs.png" width="700"><br><br>
+  <img src="/assets/images/feature_importance.png" width="600"><br>
+  <details style="margin-top:10px;">
+    <summary style="cursor: pointer; font-style: italic;">
+      <strong>Knockoffs for reproducible variable selection in structured high-dimensional data.</strong> <it>(Click to show/hide more details).</it>
+    </summary>
+    <em>
+      This figure illustrates core ideas from my work on knockoffs for Markov chains — an early contribution to my line of work on reproducible variable selection in high-dimensional problems such as genome-wide association studies (GWAS). The goal is to identify truly associated variables while rigorously controlling the false discovery rate, even when the covariates exhibit strong sequential dependence.
+
+      The algorithm shown in the top panel constructs knockoff copies of covariates that follow a Markov chain. In this toy example with <em>p = 4</em> variables, each knockoff variable is sampled sequentially using nearby original and previously sampled knockoff variables, along with an auxiliary normalization factor computed at the previous step. The result is a synthetic sequence that closely mimics the original Markov structure while remaining independent of the response — making it a valid negative control.
+
+      The bottom panel shows how knockoffs are used in practice to assess feature importance. In this example, all variables are null — none are truly associated with the outcome. The left plot shows importance scores for the original variables, which vary due to randomness, making it difficult to distinguish signal from noise. The right plot shows the same scores alongside those of their knockoff counterparts. Because all variables are null, the original and knockoff scores follow the same distribution, illustrating the role of knockoffs as a reference for controlling false discoveries.
+
+      These ideas laid the groundwork for extensions to more complex models such as hidden Markov models, and have proven especially effective for analyzing structured genomic data.
+
+      <br><br>
+      <span style="font-style: normal;">Figures adapted from: Sesia, Sabatti, and Candès (2019).</span>
+    </em>
+  </details>
 </p>
 
 
@@ -65,9 +82,24 @@ A central focus of my research is developing flexible, *distribution-free* and *
 
 <p align="center">
   <img src="/assets/images/cifar10.png" width="700"><br>
-  <em>Conformal prediction sets for test images from CIFAR-10. Left: clean image of a ship. Right: corrupted image of a dog. From Einbinder, Romano, Sesia, and Zhou (2022).</em>
-</p>
+  <details style="margin-top:10px;">
+    <summary style="cursor: pointer; font-style: italic;">
+      <strong>Understanding uncertainty in image recognition models.</strong> <it>(Click to show/hide more details).</it>
+    </summary>
+    <em>
+      This figure shows two test images from the CIFAR-10 dataset: a clean image of a ship (left) and a corrupted image of a dog (right), modified using RandomErasing to make it very difficult to recognize. Each image is processed by four different image recognition models, and their outputs are independently post-processed using conformal inference to quantify uncertainty via well-calibrated <em>prediction sets</em>.
 
+      A prediction set includes all labels the model considers plausibly correct for a given input — that is, labels with sufficiently high estimated probability (shown in parentheses). These sets are constructed to include the true label 90% of the time across the full test set, a property known as the 90% marginal coverage guarantee of conformal prediction.
+
+      Traditional image recognition models — especially those trained to minimize cross-entropy loss — often become overconfident, particularly on challenging or corrupted images. This overconfidence can degrade the performance of conformal prediction, resulting in prediction sets that are too large for easy examples or too small for hard ones — failing to properly reflect uncertainty when it matters most.
+
+      To overcome this, we’ve developed a new machine learning algorithm that encourages model confidence to better align with true uncertainty. By more tightly integrating model training with the conformal calibration process, our approach enables more reliable and efficient uncertainty estimation.
+
+      <br>
+      <span style="font-style: normal;">Figure adapted from: Einbinder, Romano, Sesia, and Zhou (NeurIPS, 2022).</span>
+    </em>
+  </details>
+</p>
 
 
 ### 📊 Data Sketching and Frequency Recovery {#data-sketching}
@@ -90,9 +122,26 @@ This line of work demonstrates how flexible inference techniques can be integrat
 
 
 <p align="center">
-  <img src="/assets/images/digital_twin.png" width="600"><br><br>
-  <em>Hidden Markov model of an offspring's genotype conditional on parental DNA. Enables synthetic data generation for inference. From Bates, Sesia, Candès, and Sabatti (2020).</em>
+  <img src="/assets/images/haplotypes.jpg" width="600"><br>
+  <details style="margin-top:10px;">
+    <summary style="cursor: pointer; font-style: italic;">
+      <strong>Construction of realistic knockoffs for complex genetic data.</strong> <it>(Click to show/hide more details).</it>
+    </summary>
+    <em>
+      This figure illustrates key ideas behind <em>KnockoffGWAS</em>, a method I developed for identifying genetic variants associated with complex traits while rigorously controlling the false discovery rate. The approach constructs <em>knockoffs</em> — synthetic genotypes that closely resemble real ones but are guaranteed not to be associated with the phenotype. These serve as negative controls, enabling powerful and reproducible inference even in the presence of linkage disequilibrium, population structure, or relatedness.
+
+      KnockoffGWAS builds on semi-realistic generative models of genetic variation, where the haplotypes of each individual are represented as mosaics of segments copied from others in the population — a flexible way to capture natural patterns of inheritance. These models allow us to simulate new, artificial haplotypes that are statistically indistinguishable from the originals, but provably uninformative about the trait under study.
+
+      Panel (A) visualizes this modeling framework: haplotypes are shown as sequences assembled from different reference haplotypes (in different colors), capturing shared ancestry. Panel (B) shows how knockoffs for closely related individuals preserve long identity-by-descent (IBD) segments — regions where the alleles match exactly — while remaining independent of the phenotype.
+
+      KnockoffGWAS enables scalable, transparent, and robust genetic discovery, and is implemented in fast open-source software designed for biobank-scale datasets.
+
+      <br><br>
+      <span style="font-style: normal;">Figure adapted from: Sesia, Bates, Candès, Marchini, and Sabatti (PNAS, 2021).</span>
+    </em>
+  </details>
 </p>
+
 
 
 ### 🩺 Biomedical Collaborations {#biomedical-collaborations}
@@ -103,9 +152,26 @@ These collaborations highlight the importance of integrating domain expertise wi
 
 
 <p align="center">
-  <img src="/assets/images/knockoff_wavelets.png" width="500"><br><br>
-  <em>Interpretable classification of bacterial Raman spectra using knockoff-filtered wavelet features. From Chia et al. (2021).</em>
+  <img src="/assets/images/knockoff_wavelets.png" width="500"><br>
+  <details style="margin-top:10px;">
+    <summary style="cursor: pointer; font-style: italic;">
+      <strong>Interpretable classification of bacterial Raman spectra.</strong> <it>(Click to show/hide more details).</it>
+    </summary>
+    <em>
+      This figure illustrates key results from our work on interpretable classification of bacterial Raman spectra using wavelet-based features selected by the knockoff filter. Raman spectroscopy produces complex signals reflecting the chemical composition of samples, but raw spectral data are often noisy and difficult to interpret directly.
+
+      To address this, we transform the signals using a wavelet basis, which separates the signal into components at different scales. We then apply the knockoff filter to select a small number of relevant wavelet features while rigorously controlling the false discovery rate. These selected features are both predictive and interpretable — corresponding to meaningful chemical signatures.
+
+      The figure visualizes the selected wavelets in both the wavelet domain and the original signal domain (via inverse discrete wavelet transform). Most of the selected features are concentrated at lower frequencies, where meaningful signal dominates over noise. As a result, the reconstructed signals reveal clear peaks that correspond to distinguishing chemical bonds, which are informative for bacterial classification.
+
+      This work demonstrates that a simple, transparent model using knockoff-selected wavelet features can match the classification accuracy of complex black-box models, while providing insight into which parts of the signal matter.
+
+      <br><br>
+      <span style="font-style: normal;">Figure adapted from: Chia, Sesia, Candès, and Sabatti (2021).</span>
+    </em>
+  </details>
 </p>
+
 
 
 ### 🧠 Uncertainty Estimation for Language Models {#llms}
