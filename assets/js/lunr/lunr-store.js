@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Research",
-        "excerpt":"My research lies at the intersection of statistics and machine learning, with a focus on developing practical, reliable methods for analyzing complex, high-dimensional data. I aim to create tools that are not only statistically rigorous but also effective and broadly applicable in real-world settings—where data are often imperfect, and modeling...","categories": [],
+        "excerpt":"Research Overview Jump to: Reproducible Variable Selection Uncertainty Quantification Data Sketching and Frequency Recovery Statistical Genetics Biomedical Collaborations Uncertainty Estimation for Language Models My research focuses on developing practical and rigorous statistical methods for analyzing complex, high-dimensional data using modern machine learning algorithms, particularly in settings where traditional modeling assumptions...","categories": [],
         "tags": [],
         "url": "/research/",
         "teaser": null
