@@ -10,14 +10,14 @@ classes: wide custom-font
 
 **University of Southern California**  
 🏛️ *Marshall School of Business*  
-- 🧑‍🏫 **Associate Professor of Data Sciences and Operations** (tenured) <br>
-  *April 2025 – Present*  
-- 🧑‍🏫 Assistant Professor of Data Sciences and Operations (tenure-track) <br>
-  *June 2020 – April 2025*
+- **Associate Professor of Data Sciences and Operations** (tenured) <br>
+  📅 *April 2025 – Present*  
+- Assistant Professor of Data Sciences and Operations (tenure-track) <br>
+  📅 *June 2020 – April 2025*
 
 🏛️ *Viterbi School of Engineering*  
-- 🧑‍🏫 **Assistant Professor of Computer Science** (by courtesy)   <br>
-  *January 2023 – Present*
+- **Assistant Professor of Computer Science** (by courtesy)   <br>
+  📅 *January 2023 – Present*
 
 ---
 
