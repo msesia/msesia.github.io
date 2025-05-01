@@ -16,7 +16,7 @@ classes: wide custom-font
       <h2>{{ current_year }}</h2>
     {% endunless %}
 
-    <div class="pub-item">
+    <div class="pub-item" id="{{ pub.title | slugify }}">
       <div class="pub-title">
         <strong>{{ pub.title }}</strong>
 
