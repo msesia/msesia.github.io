@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2025 Robust Conformal Outlier Detection under Contaminated Reference Data 🎯 M. Bashari, M. Sesia, Y. Romano pre-print, 2025 [Preprint] [BibTeX] Noise-Adaptive Conformal Classification with Marginal Coverage 🎯 T. Bortolotti, Y. X. R. Wang, X. Tong, A. Menafoglio, S. Vantini, M. Sesia pre-print, 2025 [Preprint] [BibTeX] A smoothed-Bayesian approach to frequency...","categories": [],
+        "excerpt":"2025 Robust Conformal Outlier Detection under Contaminated Reference Data 🎯 M. Bashari, M. Sesia, Y. Romano Proceedings of the 42nd International Conference on Machine Learning (ICML), recently accepted, 2025 [Preprint] [BibTeX] Noise-Adaptive Conformal Classification with Marginal Coverage 🎯 T. Bortolotti, Y. X. R. Wang, X. Tong, A. Menafoglio, S. Vantini,...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
@@ -45,6 +45,12 @@ var store = [{
         "excerpt":"2025 Data Science for Business (GSBA 524) 🎓 Graduate course 📅 Spring 2025 📍 University of Southern California, Los Angeles, CA 2024 Applied Time Series Analysis for Forecasting (DSO 522) 🎓 Graduate course 📅 Fall 2024 📍 University of Southern California, Los Angeles, CA Data Science for Business (GSBA 524)...","categories": [],
         "tags": [],
         "url": "/teaching/",
+        "teaser": null
+      },{
+        "title": "ICML 2025",
+        "excerpt":"My collaborators and I had two papers accepted to the International Conference on Machine Learning (ICML) this year, one of which was selected as a spotlight (top 2.6% of submissions). The poster paper, with Meshi Bashari and Yaniv Romano, introduces a robust conformal outlier detection method that can work with...","categories": ["posts"],
+        "tags": [],
+        "url": "/posts/2025/05/01/ICML-2025.html",
         "teaser": null
       },{
         "title": "Gene hunting with knockoffs for hidden Markov models",
