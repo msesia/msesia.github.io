@@ -1,0 +1,9 @@
+@misc{zhao2025conformalpredictiveprogrammingchance,
+      title={Conformal Predictive Programming for Chance Constrained Optimization}, 
+      author={Yiqi Zhao and Xinyi Yu and Matteo Sesia and Jyotirmoy V. Deshmukh and Lars Lindemann},
+      year={2025},
+      eprint={2402.07407},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2402.07407}, 
+}
