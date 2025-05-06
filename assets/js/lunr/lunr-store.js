@@ -251,6 +251,12 @@ var store = [{
         "url": "/publications/2024-survival/",
         "teaser": null
       },{
+        "title": "Conformal predictive programming for chance constrained optimization",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/2025-conformal-predictive-programming/",
+        "teaser": null
+      },{
         "title": "Noise-Adaptive Conformal Classification with Marginal Coverage",
         "excerpt":" ","categories": [],
         "tags": [],
