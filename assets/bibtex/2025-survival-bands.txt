@@ -1,0 +1,9 @@
+@misc{sesia2025conformalsurvivalbandsrisk,
+      title={Conformal Survival Bands for Risk Screening under Right-Censoring}, 
+      author={Matteo Sesia and Vladimir Svetnik},
+      year={2025},
+      eprint={2505.04568},
+      archivePrefix={arXiv},
+      primaryClass={stat.ME},
+      url={https://arxiv.org/abs/2505.04568}, 
+}
