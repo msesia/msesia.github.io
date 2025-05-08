@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2025 Robust Conformal Outlier Detection under Contaminated Reference Data 🎯 M. Bashari, M. Sesia, Y. Romano Proceedings of the 42nd International Conference on Machine Learning (ICML), recently accepted, 2025 [Preprint] [BibTeX] Noise-Adaptive Conformal Classification with Marginal Coverage 🎯 T. Bortolotti, Y. X. R. Wang, X. Tong, A. Menafoglio, S. Vantini,...","categories": [],
+        "excerpt":"2025 Conformal Survival Bands for Risk Screening under Right-Censoring 🎯 M. Sesia, V. Svetnik preprint, 2025 [Preprint] [BibTeX] Robust Conformal Outlier Detection under Contaminated Reference Data 🎯 M. Bashari, M. Sesia, Y. Romano Proceedings of the 42nd International Conference on Machine Learning (ICML), recently accepted, 2025 [Preprint] [BibTeX] Noise-Adaptive Conformal...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
@@ -267,6 +267,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/publications/2025-outliers-contaminated/",
+        "teaser": null
+      },{
+        "title": "Conformal Survival Bands for Risk Screening under Right-Censoring",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/2025-survival-bands/",
         "teaser": null
       },{
         "title": "Introduction to R (Stats 195)",
