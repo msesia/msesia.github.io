@@ -1,10 +1,4 @@
 var store = [{
-        "title": "About",
-        "excerpt":"I’m an assistant professor in the Department of Data Sciences and Operations at the USC Marshall School of Business I am also honored to hold the Kenneth King Stonier Assistant Professorship in Business Administration, and a secondary appointment as Assistant Professor of Computer Science in the Viterbi School of Engineering....","categories": [],
-        "tags": [],
-        "url": "/about/",
-        "teaser": null
-      },{
         "title": "Consulting",
         "excerpt":"Interested in working together? I’m happy to offer a free initial consultation to discuss your project and explore how I may be able to help. Feel free to reach out at sesia@pvalueconsulting.llc for more information. Over the past several years, I’ve provided statistical consulting across academia, industry, and publishing. My...","categories": [],
         "tags": [],
@@ -12,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Curriculum Vitae",
-        "excerpt":"Employment University of Southern California 🏛️ Marshall School of Business Associate Professor of Data Sciences and Operations (tenured) 📅 April 2025 – Present Assistant Professor of Data Sciences and Operations (tenure-track) 📅 June 2020 – April 2025 🏛️ Viterbi School of Engineering Assistant Professor of Computer Science (by courtesy) 📅...","categories": [],
+        "excerpt":"Employment University of Southern California 🏛️ Marshall School of Business Associate Professor of Data Sciences and Operations (tenured) 📅 April 2025 – Present Assistant Professor of Data Sciences and Operations (tenure-track) 📅 June 2020 – April 2025 🏛️ Viterbi School of Engineering Associate Professor of Computer Science (by courtesy) 📅...","categories": [],
         "tags": [],
         "url": "/cv/",
         "teaser": null
