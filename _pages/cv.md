@@ -18,7 +18,7 @@ classes: wide custom-font
 🏛️ *Viterbi School of Engineering*  
 - **Associate Professor of Computer Science** (by courtesy)   <br>
   📅 *April 2025 – Present*
-- **Assistant Professor of Computer Science** (by courtesy)   <br>
+- Assistant Professor of Computer Science (by courtesy)   <br>
   📅 *January 2023 – April 2025*
 
 ---
