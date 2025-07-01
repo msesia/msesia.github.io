@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2025 Conformal Survival Bands for Risk Screening under Right-Censoring 🎯 M. Sesia, V. Svetnik 14th Symposium on Conformal and Probabilistic Prediction with Applications, 2025 [Preprint] [BibTeX] Robust Conformal Outlier Detection under Contaminated Reference Data 🎯 M. Bashari, M. Sesia, Y. Romano Proceedings of the 42nd International Conference on Machine Learning...","categories": [],
+        "excerpt":"2025 Conformal Survival Bands for Risk Screening under Right-Censoring 🎯 M. Sesia, V. Svetnik Proceedings of the 14th Symposium on Conformal and Probabilistic Prediction with Applications (COPA), recently accepted, 2025 [Preprint] [BibTeX] Robust Conformal Outlier Detection under Contaminated Reference Data 🎯 M. Bashari, M. Sesia, Y. Romano Proceedings of the...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
