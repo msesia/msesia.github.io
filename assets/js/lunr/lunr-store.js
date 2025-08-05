@@ -5,12 +5,6 @@ var store = [{
         "url": "/consulting/",
         "teaser": null
       },{
-        "title": "Curriculum Vitae",
-        "excerpt":"Employment University of Southern California 🏛️ Marshall School of Business Associate Professor of Data Sciences and Operations (tenured) 📅 April 2025 – Present Assistant Professor of Data Sciences and Operations (tenure-track) 📅 June 2020 – April 2025 🏛️ Viterbi School of Engineering Associate Professor of Computer Science (by courtesy) 📅...","categories": [],
-        "tags": [],
-        "url": "/cv/",
-        "teaser": null
-      },{
         "title": "Research Group",
         "excerpt":"🎓 Current Ph.D. Students Yanfei Zhou (4th year) Department: Data Sciences and Operations Research Focus: Conformal Prediction and Machine Learning Tianmin Xie (3rd year) Department: Data Sciences and Operations Research Focus: Conformal Inference Brian Fan (2nd year) Department: Mathematics Research Focus: Conformal Inference Reza Pishkoo (1st year) Department: Mathematics Research...","categories": [],
         "tags": [],
