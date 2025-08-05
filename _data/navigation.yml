@@ -1,11 +1,9 @@
 main:
-  - title: "CV"
-    url: /cv/
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Research Group"
+  - title: "People"
     url: /group/
   - title: "Software"
     url: /software/

@@ -16,9 +16,6 @@ minimal_mistakes_skin: contrast
 markdown: kramdown
 highlighter: rouge
 
-head_scripts:
-  - https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css
-
 author:
   name   : "Matteo Sesia"
   avatar : "/assets/images/headshot.jpg"
@@ -27,19 +24,18 @@ author:
     Associate Professor at the University of Southern California.
 
   links:
-    - label: "Los Angeles"
-      icon: "fas fa-map-marker-alt"
-      url: "https://maps.google.com/?q=Los+Angeles"
+    - label: "CV"
+      icon: "fas fa-file-alt"  # or "ai ai-cv" if Academicons loaded
+      url: "/assets/cv_matteo_sesia.pdf"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=qFtP1MQAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/msesia"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=qFtP1MQAAAAJ&hl=en"
     - label: "ORCID"
-      icon: "ai ai-orcid"
+      icon: "fas fa-id-badge"
       url: "https://orcid.org/0000-0001-9046-907X"
-
   email    : "sesia@marshall.usc.edu"
 
 include:
