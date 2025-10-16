@@ -1,0 +1,9 @@
+@misc{xie2025conformalinferenceopensetimbalanced,
+      title={Conformal Inference for Open-Set and Imbalanced Classification}, 
+      author={Tianmin Xie and Yanfei Zhou and Ziyi Liang and Stefano Favaro and Matteo Sesia},
+      year={2025},
+      eprint={2510.13037},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2510.13037}, 
+}

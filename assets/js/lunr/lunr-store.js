@@ -251,6 +251,12 @@ var store = [{
         "url": "/publications/2025-marginal-label-noise/",
         "teaser": null
       },{
+        "title": "Conformal Inference for Open-Set and Imbalanced Classification",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/2025-open-set-classification/",
+        "teaser": null
+      },{
         "title": "Robust Conformal Outlier Detection under Contaminated Reference Data",
         "excerpt":" ","categories": [],
         "tags": [],
