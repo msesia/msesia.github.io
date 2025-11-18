@@ -41,6 +41,18 @@ var store = [{
         "url": "/posts/2025/05/01/ICML-2025.html",
         "teaser": null
       },{
+        "title": "Google Research Scholar Award",
+        "excerpt":"My research proposal on conformal inference for uncertainty estimation in real-world machine learning has been generously selected for funding by Google Research. Thank you!  ","categories": ["posts"],
+        "tags": [],
+        "url": "/posts/2025/05/30/Google-Award.html",
+        "teaser": null
+      },{
+        "title": "COPA 2025",
+        "excerpt":"Two of our papers received top honors this year at the 14th Symposium on Conformal and Probabilistic Prediction with Applications (COPA). Best Paper: Conformal Survival Bands for Risk Screening under Right-Censoring, with Vladimir Svetnik. Best Poster (one of two awards): Conformal Classification with New Labels, with my PhD student Tianmin...","categories": ["posts"],
+        "tags": [],
+        "url": "/posts/2025/07/10/COPA-2025.html",
+        "teaser": null
+      },{
         "title": "Gene hunting with knockoffs for hidden Markov models",
         "excerpt":" ","categories": [],
         "tags": [],
