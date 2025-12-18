@@ -17,15 +17,12 @@ Research Focus: Conformal Prediction and Machine Learning
 
 [**Tianmin Xie**](https://www.marshall.usc.edu/personnel/tianmin-xie) (4th year)  
 _Department: Data Sciences and Operations_  
-Research Focus: Conformal Inference
+Research Focus: Conformal Prediction
 
-**Brian Fan** (3rd year)  
+**Yunjie Fan** (3rd year)  
 _Department: Mathematics_  
-Research Focus: Conformal Inference
+Research Focus: Conformal Prediction
 
-**Reza Pishkoo** (2nd year)  
-_Department: Mathematics_  
-Research Focus: Conformal Inference
 
 ---
 
@@ -35,7 +32,7 @@ Research Focus: Conformal Inference
 _Department: Mathematics_  
 Graduated: 2024  
 Current Position: Postdoctoral Researcher, University of California, Irvine  
-Research Focus: Multiple Testing and Conformal Inference
+Research Focus: Multiple Testing and Conformal Prediction
 
 ---
 
@@ -49,7 +46,7 @@ Research Focus: Multiple Testing and Conformal Inference
 **Teresa Bortolotti**  
 _Ph.D. Student, Polytechnic University of Milano_  
 Visiting Period: June -- October 2024  
-Research Focus: Conformal Inference
+Research Focus: Conformal Prediction
 
 **Chiara Magnani**  
 _Ph.D. Student, University of Milano Bicocca_  
