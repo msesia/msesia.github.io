@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Research Group",
-        "excerpt":"🎓 Current Ph.D. Students Yanfei Zhou (5th year) Department: Data Sciences and Operations Research Focus: Conformal Prediction and Machine Learning Tianmin Xie (4th year) Department: Data Sciences and Operations Research Focus: Conformal Inference Brian Fan (3rd year) Department: Mathematics Research Focus: Conformal Inference Reza Pishkoo (2nd year) Department: Mathematics Research...","categories": [],
+        "excerpt":"🎓 Current Ph.D. Students Yanfei Zhou (5th year) Department: Data Sciences and Operations Research Focus: Conformal Prediction and Machine Learning Tianmin Xie (4th year) Department: Data Sciences and Operations Research Focus: Conformal Prediction Yunjie Fan (3rd year) Department: Mathematics Research Focus: Conformal Prediction 🎓 Past Ph.D. Students Ziyi Liang Department:...","categories": [],
         "tags": [],
         "url": "/group/",
         "teaser": null
