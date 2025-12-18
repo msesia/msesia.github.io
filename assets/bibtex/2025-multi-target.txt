@@ -1,0 +1,9 @@
+@misc{fan2025interpretablemultivariateconformalprediction,
+      title={Interpretable Multivariate Conformal Prediction with Fast Transductive Standardization}, 
+      author={Yunjie Fan and Matteo Sesia},
+      year={2025},
+      eprint={2512.15383},
+      archivePrefix={arXiv},
+      primaryClass={stat.ME},
+      url={https://arxiv.org/abs/2512.15383}, 
+}
