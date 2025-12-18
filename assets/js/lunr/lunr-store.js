@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2025 Conformal Survival Bands for Risk Screening under Right-Censoring 🎯 M. Sesia, V. Svetnik Proceedings of the 14th Symposium on Conformal and Probabilistic Prediction with Applications (COPA), recently accepted, 2025 [Preprint] [BibTeX] Robust Conformal Outlier Detection under Contaminated Reference Data 🎯 M. Bashari, M. Sesia, Y. Romano Proceedings of the...","categories": [],
+        "excerpt":"2025 Interpretable Multivariate Conformal Prediction with Fast Transductive Standardization 🎯 Y. Fan, M. Sesia arXiv preprint, 2025 [Preprint] [BibTeX] Conformal Inference for Open-Set and Imbalanced Classification 🎯 T. Xie, Y. Zhou, Z. Liang, S. Favaro, M. Sesia arXiv preprint, 2025 [Preprint] [BibTeX] Conformal Survival Bands for Risk Screening under Right-Censoring...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
@@ -251,34 +251,40 @@ var store = [{
         "url": "/publications/2024-survival/",
         "teaser": null
       },{
-        "title": "Conformal predictive programming for chance constrained optimization",
+        "title": "Robust Conformal Outlier Detection under Contaminated Reference Data",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/publications/2025-conformal-predictive-programming/",
+        "url": "/publications/2025-2-outliers-contaminated/",
         "teaser": null
       },{
         "title": "Noise-Adaptive Conformal Classification with Marginal Coverage",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/publications/2025-marginal-label-noise/",
+        "url": "/publications/2025-3-marginal-label-noise/",
         "teaser": null
       },{
-        "title": "Conformal Inference for Open-Set and Imbalanced Classification",
+        "title": "Conformal predictive programming for chance constrained optimization",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/publications/2025-open-set-classification/",
-        "teaser": null
-      },{
-        "title": "Robust Conformal Outlier Detection under Contaminated Reference Data",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/publications/2025-outliers-contaminated/",
+        "url": "/publications/2025-4-conformal-predictive-programming/",
         "teaser": null
       },{
         "title": "Conformal Survival Bands for Risk Screening under Right-Censoring",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/publications/2025-survival-bands/",
+        "url": "/publications/2025-5-survival-bands/",
+        "teaser": null
+      },{
+        "title": "Conformal Inference for Open-Set and Imbalanced Classification",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/2025-6-open-set-classification/",
+        "teaser": null
+      },{
+        "title": "Interpretable Multivariate Conformal Prediction with Fast Transductive Standardization",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/2025-7-multi-target/",
         "teaser": null
       },{
         "title": "Introduction to R (Stats 195)",
