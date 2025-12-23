@@ -1,0 +1,9 @@
+@misc{sesia2025distributionfreeselectionlowriskoncology,
+      title={Distribution-Free Selection of Low-Risk Oncology Patients for Survival Beyond a Time Horizon}, 
+      author={Matteo Sesia and Vladimir Svetnik},
+      year={2025},
+      eprint={2512.18118},
+      archivePrefix={arXiv},
+      primaryClass={stat.AP},
+      url={https://arxiv.org/abs/2512.18118}, 
+}

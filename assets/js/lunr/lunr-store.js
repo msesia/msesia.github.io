@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2025 Interpretable Multivariate Conformal Prediction with Fast Transductive Standardization 🎯 Y. Fan, M. Sesia arXiv preprint, 2025 [Preprint] [BibTeX] Conformal Inference for Open-Set and Imbalanced Classification 🎯 T. Xie, Y. Zhou, Z. Liang, S. Favaro, M. Sesia arXiv preprint, 2025 [Preprint] [BibTeX] Conformal Survival Bands for Risk Screening under Right-Censoring...","categories": [],
+        "excerpt":"2025 Distribution-Free Selection of Low-Risk Oncology Patients for Survival Beyond a Time Horizon 🩺 🎯 M. Sesia, V. Svetnik arXiv preprint, 2025 [Preprint] [BibTeX] Interpretable Multivariate Conformal Prediction with Fast Transductive Standardization 🎯 Y. Fan, M. Sesia arXiv preprint, 2025 [Preprint] [BibTeX] Conformal Inference for Open-Set and Imbalanced Classification 🎯...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
@@ -285,6 +285,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/publications/2025-7-multi-target/",
+        "teaser": null
+      },{
+        "title": "Distribution-Free Selection of Low-Risk Oncology Patients for Survival Beyond a Time Horizon",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/2025-8-selection/",
         "teaser": null
       },{
         "title": "Introduction to R (Stats 195)",
