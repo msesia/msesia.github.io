@@ -1,0 +1,8 @@
+@inproceedings{
+sesia2025doubly,
+title={Doubly Robust Conformalized Survival Analysis with Right-Censored Data},
+author={Matteo Sesia and Vladimir Svetnik},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=2PWn1LtCwP}
+}
