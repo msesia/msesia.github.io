@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2025 Distribution-Free Selection of Low-Risk Oncology Patients for Survival Beyond a Time Horizon 🩺 🎯 M. Sesia, V. Svetnik arXiv preprint, 2025 [Preprint] [BibTeX] Interpretable Multivariate Conformal Prediction with Fast Transductive Standardization 🎯 Y. Fan, M. Sesia arXiv preprint, 2025 [Preprint] [BibTeX] Conformal Inference for Open-Set and Imbalanced Classification 🎯...","categories": [],
+        "excerpt":"2026 Searching for local associations while controlling the false discovery rate 🔍 🧬 P. Gablenz, M. Sesia, T. Sun, C. Sabatti Journal of the American Statistical Association, 2026 [Preprint] [Published] [BibTeX] 2025 Distribution-Free Selection of Low-Risk Oncology Patients for Survival Beyond a Time Horizon 🩺 🎯 M. Sesia, V. Svetnik...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
@@ -179,12 +179,6 @@ var store = [{
         "url": "/publications/2022-robotic/",
         "teaser": null
       },{
-        "title": "Searching for local associations while controlling the false discovery rate",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/publications/2022-sskf/",
-        "teaser": null
-      },{
         "title": "Derandomized novelty detection with FDR control via conformal e-values",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -291,6 +285,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/publications/2025-8-selection/",
+        "teaser": null
+      },{
+        "title": "Searching for local associations while controlling the false discovery rate",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/2026-sskf/",
         "teaser": null
       },{
         "title": "Introduction to R (Stats 195)",

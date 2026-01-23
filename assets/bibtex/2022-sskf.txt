@@ -1,6 +1,0 @@
-@article{gablenz2024searching,
-  title={Searching for local associations while controlling the false discovery rate},
-  author={Gablenz, Paula and Sesia, Matteo and Sun, Tianshu and Sabatti, Chiara},
-  journal={arXiv preprint arXiv:2412.02182},
-  year={2024}
-}
