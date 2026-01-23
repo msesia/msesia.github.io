@@ -239,58 +239,58 @@ var store = [{
         "url": "/publications/2024-structured-matrix-completion/",
         "teaser": null
       },{
-        "title": "Doubly Robust Conformalized Survival Analysis with Right-Censored Data",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/publications/2024-survival/",
-        "teaser": null
-      },{
         "title": "Robust Conformal Outlier Detection under Contaminated Reference Data",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/publications/2025-2-outliers-contaminated/",
         "teaser": null
       },{
+        "title": "Doubly Robust Conformalized Survival Analysis with Right-Censored Data",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/2025-3-survival/",
+        "teaser": null
+      },{
         "title": "Noise-Adaptive Conformal Classification with Marginal Coverage",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/publications/2025-3-marginal-label-noise/",
+        "url": "/publications/2025-4-marginal-label-noise/",
         "teaser": null
       },{
         "title": "Conformal predictive programming for chance constrained optimization",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/publications/2025-4-conformal-predictive-programming/",
+        "url": "/publications/2025-5-conformal-predictive-programming/",
         "teaser": null
       },{
         "title": "Conformal Survival Bands for Risk Screening under Right-Censoring",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/publications/2025-5-survival-bands/",
+        "url": "/publications/2025-6-survival-bands/",
         "teaser": null
       },{
         "title": "Conformal Inference for Open-Set and Imbalanced Classification",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/publications/2025-6-open-set-classification/",
+        "url": "/publications/2025-7-open-set-classification/",
         "teaser": null
       },{
         "title": "Interpretable Multivariate Conformal Prediction with Fast Transductive Standardization",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/publications/2025-7-multi-target/",
+        "url": "/publications/2025-8-multi-target/",
         "teaser": null
       },{
         "title": "Distribution-Free Selection of Low-Risk Oncology Patients for Survival Beyond a Time Horizon",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/publications/2025-8-selection/",
+        "url": "/publications/2025-9-selection/",
         "teaser": null
       },{
         "title": "Searching for local associations while controlling the false discovery rate",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/publications/2026-sskf/",
+        "url": "/publications/2026-1-sskf/",
         "teaser": null
       },{
         "title": "Introduction to R (Stats 195)",

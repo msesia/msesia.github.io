@@ -1,6 +1,8 @@
-@article{bashari2025robust,
-  title={Robust Conformal Outlier Detection under Contaminated Reference Data},
-  author={Bashari, Meshi and Sesia, Matteo and Romano, Yaniv},
-  journal={arXiv preprint arXiv:2502.04807},
-  year={2025}
+@inproceedings{
+bashari2025robust,
+title={Robust Conformal Outlier Detection under Contaminated Reference Data},
+author={Meshi Bashari and Matteo Sesia and Yaniv Romano},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=s55Af9Emyq}
 }
