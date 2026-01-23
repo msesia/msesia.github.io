@@ -1,0 +1,10 @@
+@article{Gablenz23012026,
+author = {Paula Gablenz and Matteo Sesia and Tianshu Sun and Chiara Sabatti},
+title = {Searching for local associations while controlling the false discovery rate},
+journal = {Journal of the American Statistical Association},
+volume = {0},
+number = {ja},
+pages = {1--22},
+year = {2026},
+publisher = {Taylor \& Francis},
+}
