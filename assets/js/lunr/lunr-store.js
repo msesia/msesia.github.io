@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2026 Searching for local associations while controlling the false discovery rate 🔍 🧬 P. Gablenz, M. Sesia, T. Sun, C. Sabatti Journal of the American Statistical Association, 2026 [Preprint] [Published] [BibTeX] 2025 Distribution-Free Selection of Low-Risk Oncology Patients for Survival Beyond a Time Horizon 🩺 🎯 M. Sesia, V. Svetnik...","categories": [],
+        "excerpt":"2026 Elements of Conformal Prediction for Statisticians 🎯 M. Sesia, S. Favaro Invited submission to Annual Review of Statistics and Its Application, 2026 [Preprint] [BibTeX] Searching for local associations while controlling the false discovery rate 🔍 🧬 P. Gablenz, M. Sesia, T. Sun, C. Sabatti Journal of the American Statistical...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
@@ -291,6 +291,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/publications/2026-1-sskf/",
+        "teaser": null
+      },{
+        "title": "Elements of Conformal Prediction for Statisticians",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/2026-2-elements/",
         "teaser": null
       },{
         "title": "Introduction to R (Stats 195)",
