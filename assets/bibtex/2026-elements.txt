@@ -1,0 +1,9 @@
+@misc{sesia2026elements,
+      title={Elements of Conformal Prediction for Statisticians}, 
+      author={Matteo Sesia and Stefano Favaro},
+      year={2026},
+      eprint={2603.23923},
+      archivePrefix={arXiv},
+      primaryClass={stat.ME},
+      url={https://arxiv.org/abs/2603.23923}, 
+}
