@@ -1,6 +1,7 @@
-@article{liang2024structured,
-  title={Structured conformal inference for matrix completion with applications to group recommender systems},
-  author={Liang, Ziyi and Xie, Tianmin and Tong, Xin and Sesia, Matteo},
-  journal={arXiv preprint arXiv:2404.17561},
-  year={2024}
+@article{liang2026structured,
+author = {Liang,Ziyi and Xie,Tianmin and Tong,Xin and Sesia,Matteo},
+title = {Structured Conformal Inference for Matrix Completion with Applications to Group Recommender Systems},
+journal = {Journal of the American Statistical Association},
+year = {2026},
+doi = {10.1080/01621459.2026.2658287},
 }
