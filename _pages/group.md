@@ -25,7 +25,7 @@ Research Focus: Conformal Prediction
 
 ## 🎓 Past Ph.D. Students
 
-[**Yanfei Zhou**](https://yanfeifionazhou.github.io/) (5th year)
+[**Yanfei Zhou**](https://yanfeifionazhou.github.io/)
 _Department: Data Sciences and Operations_
 Graduated: 2026
 Placement: Research Scientist, Meta
