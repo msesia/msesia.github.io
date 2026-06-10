@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Research Group",
-        "excerpt":"🎓 Current Ph.D. Students Tianmin Xie (5th year) Department: Data Sciences and Operations Research Focus: Conformal Prediction Yunjie Fan (4-th year) Department: Mathematics Research Focus: Conformal Prediction 🎓 Past Ph.D. Students Yanfei Zhou (5th year) Department: Data Sciences and Operations Graduated: 2026 Placement: Research Scientist, Meta Ziyi Liang Department: Mathematics...","categories": [],
+        "excerpt":"🎓 Current Ph.D. Students Tianmin Xie (5th year) Department: Data Sciences and Operations Research Focus: Conformal Prediction Yunjie Fan (4-th year) Department: Mathematics Research Focus: Conformal Prediction 🎓 Past Ph.D. Students Yanfei Zhou Department: Data Sciences and Operations Graduated: 2026 Placement: Research Scientist, Meta Ziyi Liang Department: Mathematics Graduated: 2024...","categories": [],
         "tags": [],
         "url": "/group/",
         "teaser": null
