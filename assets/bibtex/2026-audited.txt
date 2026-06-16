@@ -1,0 +1,9 @@
+@misc{zhou2026auditedconformalpredictionclassification,
+      title={Audited Conformal Prediction for Classification under Unknown Distribution Shift}, 
+      author={Yanfei Zhou and Rizal Fathony and Nam H. Nguyen and Matteo Sesia},
+      year={2026},
+      eprint={2606.14909},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2606.14909}, 
+}
