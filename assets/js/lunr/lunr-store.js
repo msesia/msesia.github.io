@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2026 Elements of Conformal Prediction for Statisticians 🎯 M. Sesia, S. Favaro Invited submission to Annual Review of Statistics and Its Application, 2026 [Preprint] [BibTeX] Searching for local associations while controlling the false discovery rate 🔍 🧬 P. Gablenz, M. Sesia, T. Sun, C. Sabatti Journal of the American Statistical...","categories": [],
+        "excerpt":"2026 Audited Conformal Prediction for Classification under Unknown Distribution Shift 🎯 Y. Zhou, R. Fathony, N. Nguyen, M. Sesia arXiv preprint, 2026 [Preprint] [BibTeX] Elements of Conformal Prediction for Statisticians 🎯 M. Sesia, S. Favaro Invited submission to Annual Review of Statistics and Its Application, 2026 [Preprint] [BibTeX] Searching for...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
@@ -297,6 +297,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/publications/2026-2-elements/",
+        "teaser": null
+      },{
+        "title": "Audited Conformal Prediction for Classification under Unknown Distribution Shift",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/2026-3-audited/",
         "teaser": null
       },{
         "title": "Introduction to R (Stats 195)",
