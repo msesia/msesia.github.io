@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2026 Collective Outlier Detection and Enumeration with Conformalized Closed Testing 🎯 C. Magnani, M. Sesia, A. Solari pre-print, 2026 [Preprint] [Published] [BibTeX] Audited Conformal Prediction for Classification under Unknown Distribution Shift 🎯 Y. Zhou, R. Fathony, N. Nguyen, M. Sesia arXiv preprint, 2026 [Preprint] [BibTeX] Elements of Conformal Prediction for...","categories": [],
+        "excerpt":"2026 Collective Outlier Detection and Enumeration with Conformalized Closed Testing 🎯 C. Magnani, M. Sesia, A. Solari Journal of the American Statistical Association (recently accepted), 2026 [Preprint] [BibTeX] Audited Conformal Prediction for Classification under Unknown Distribution Shift 🎯 Y. Zhou, R. Fathony, N. Nguyen, M. Sesia arXiv preprint, 2026 [Preprint]...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
