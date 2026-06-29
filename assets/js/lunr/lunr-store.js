@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2026 Audited Conformal Prediction for Classification under Unknown Distribution Shift 🎯 Y. Zhou, R. Fathony, N. Nguyen, M. Sesia arXiv preprint, 2026 [Preprint] [BibTeX] Elements of Conformal Prediction for Statisticians 🎯 M. Sesia, S. Favaro Invited submission to Annual Review of Statistics and Its Application, 2026 [Preprint] [BibTeX] Searching for...","categories": [],
+        "excerpt":"2026 Collective Outlier Detection and Enumeration with Conformalized Closed Testing 🎯 C. Magnani, M. Sesia, A. Solari pre-print, 2026 [Preprint] [Published] [BibTeX] Audited Conformal Prediction for Classification under Unknown Distribution Shift 🎯 Y. Zhou, R. Fathony, N. Nguyen, M. Sesia arXiv preprint, 2026 [Preprint] [BibTeX] Elements of Conformal Prediction for...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
@@ -209,12 +209,6 @@ var store = [{
         "url": "/publications/2024-adaptive-fairness/",
         "teaser": null
       },{
-        "title": "Collective Outlier Detection and Enumeration with Conformalized Closed Testing",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/publications/2024-collective-outlier-detection/",
-        "teaser": null
-      },{
         "title": "Conformalized adaptive forecasting of heterogeneous trajectories",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -303,6 +297,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/publications/2026-3-audited/",
+        "teaser": null
+      },{
+        "title": "Collective Outlier Detection and Enumeration with Conformalized Closed Testing",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/2026-4-collective-outlier-detection/",
         "teaser": null
       },{
         "title": "Introduction to R (Stats 195)",
