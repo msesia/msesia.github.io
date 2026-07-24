@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2026 Conformal Prediction for Regression with Clipped Outcomes 🎯 M. Sesia, V. Svetnik arXiv preprint, 2026 [Preprint] [BibTeX] Collective Outlier Detection and Enumeration with Conformalized Closed Testing 🎯 C. Magnani, M. Sesia, A. Solari Journal of the American Statistical Association (recently accepted), 2026 [Preprint] [Published] [BibTeX] Audited Conformal Prediction for...","categories": [],
+        "excerpt":"2026 Conformal Prediction for Regression with Clipped Outcomes 🎯 M. Sesia, V. Svetnik arXiv preprint, 2026 [Preprint] [BibTeX] Collective Outlier Detection and Enumeration with Conformalized Closed Testing 🎯 C. Magnani, M. Sesia, A. Solari Journal of the American Statistical Association, 2026 [Preprint] [Published] [BibTeX] Audited Conformal Prediction for Classification under...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
@@ -287,7 +287,7 @@ var store = [{
         "url": "/publications/2026-1-sskf/",
         "teaser": null
       },{
-        "title": "Elements of Conformal Prediction for Statisticians",
+        "title": "Elements of Conformal Prediction",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/publications/2026-2-elements/",
