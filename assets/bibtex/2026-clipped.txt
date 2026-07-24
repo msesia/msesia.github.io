@@ -1,0 +1,9 @@
+@misc{sesia2026conformalpredictionregressionclipped,
+      title={Conformal Prediction for Regression with Clipped Outcomes}, 
+      author={Matteo Sesia and Vladimir Svetnik},
+      year={2026},
+      eprint={2607.20736},
+      archivePrefix={arXiv},
+      primaryClass={stat.ME},
+      url={https://arxiv.org/abs/2607.20736}, 
+}
