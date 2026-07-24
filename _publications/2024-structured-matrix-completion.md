@@ -5,7 +5,7 @@ venue: Journal of the American Statistical Association
 year: '2026'
 bibtex: /assets/bibtex/2024-structured-matrix-completion.txt
 preprint: https://arxiv.org/abs/2404.17561
-published:
+published: https://doi.org/10.1080/01621459.2026.2658287
 topics:
   - uncertainty-quantification
 ---

@@ -5,7 +5,7 @@ venue: Journal of the American Statistical Association (recently accepted)
 year: '2026'
 bibtex: /assets/bibtex/2024-collective-outlier-detection.txt
 preprint: https://arxiv.org/abs/2308.05534
-published: 
+published: https://doi.org/10.1080/01621459.2026.2699463
 topics:
   - uncertainty-quantification
 ---
