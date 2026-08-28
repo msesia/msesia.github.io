@@ -27,7 +27,7 @@ _Department: Data Sciences and Operations_<br>
 Graduated: 2026<br>
 Placement: Research Scientist, Meta
 
-**Ziyi Liang**<br>
+[**Ziyi Liang**<br>](https://scholar.google.com/citations?hl=en&user=jtcnL0UAAAAJ&view_op=list_works&sortby=pubdate)
 _Department: Mathematics_<br>
 Graduated: 2024<br>
 Placement: Postdoctoral Researcher, University of California, Irvine
