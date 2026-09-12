@@ -1,0 +1,9 @@
+@misc{alvarez2026conformalpredictionregionscontinuoustime,
+      title={Conformal Prediction Regions for Continuous-Time Trajectories under Random Sampling}, 
+      author={Joaquin Alvarez and Matteo Sesia and Jyotirmoy V. Deshmukh and Lars Lindemann},
+      year={2026},
+      eprint={2608.29559},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2608.29559}, 
+}
