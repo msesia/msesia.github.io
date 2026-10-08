@@ -10,7 +10,7 @@ redirect_from:
 
 ## 🎓 Current Ph.D. Students
 
-[**Tianmin Xie**](https://www.marshall.usc.edu/personnel/tianmin-xie) (5th year)<br>
+[**Tianmin Xie**](https://tianminx.github.io/) (5th year)<br>
 _Department: Data Sciences and Operations_<br>
 Research Focus: Conformal Prediction
 
