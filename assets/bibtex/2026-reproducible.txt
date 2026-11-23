@@ -1,0 +1,15 @@
+@article{https://doi.org/10.1002/sim.70811,
+author = {Svetnik, Vladimir and Sesia, Matteo and Johnson, Michael and Tao, Peining and Burcu, Mehmet},
+title = {Reproducible Life-Expectancy Eligibility Criteria for Oncology Studies: Uncertainty Quantification for Machine Learning-Derived Survival Screening Rules},
+journal = {Statistics in Medicine},
+volume = {45},
+number = {25-27},
+pages = {e70811},
+keywords = {model-agnostic inference, prediction, simultaneous inference, survival analysis, uncertainty estimation},
+doi = {https://doi.org/10.1002/sim.70811},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.70811},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/sim.70811},
+year = {2026}
+}
+
+
