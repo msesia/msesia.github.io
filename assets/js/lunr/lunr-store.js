@@ -317,6 +317,12 @@ var store = [{
         "url": "/publications/2026-6-continuous-time/",
         "teaser": null
       },{
+        "title": null,
+        "excerpt":" ","categories": [],
+        "tags": null,
+        "url": "/publications/2026-7-reproducible/",
+        "teaser": null
+      },{
         "title": "Introduction to R (Stats 195)",
         "excerpt":" ","categories": [],
         "tags": [],
