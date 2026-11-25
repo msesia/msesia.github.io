@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2026 Reproducible life-expectancy eligibility criteria for oncology studies 🎯 S. Svetnik, M. Sesia, M. Johnson, P. Tao, M. Burcu Statistics in Medicine, 2026 [Preprint] [Published] [BibTeX] Conformal Prediction Regions for Continuous-Time Trajectories under Random Sampling 🎯 J. Alvarez, M. Sesia, J. Deshmukh, L. Lindemann arXiv preprint, 2026 [Preprint] [BibTeX] Conformal...","categories": [],
+        "excerpt":"2026 Reproducible life-expectancy eligibility criteria for oncology studies 🎯 S. Svetnik, M. Sesia, M. Johnson, P. Tao, M. Burcu Statistics in Medicine, 2026 [Published] [BibTeX] Conformal Prediction Regions for Continuous-Time Trajectories under Random Sampling 🎯 J. Alvarez, M. Sesia, J. Deshmukh, L. Lindemann arXiv preprint, 2026 [Preprint] [BibTeX] Conformal Prediction...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
