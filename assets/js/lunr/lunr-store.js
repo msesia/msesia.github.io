@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"2026 Conformal Prediction Regions for Continuous-Time Trajectories under Random Sampling 🎯 J. Alvarez, M. Sesia, J. Deshmukh, L. Lindemann arXiv preprint, 2026 [Preprint] [BibTeX] Conformal Prediction for Regression with Clipped Outcomes 🎯 M. Sesia, V. Svetnik arXiv preprint, 2026 [Preprint] [BibTeX] Collective Outlier Detection and Enumeration with Conformalized Closed Testing...","categories": [],
+        "excerpt":"2026 Reproducible life-expectancy eligibility criteria for oncology studies 🎯 S. Svetnik, M. Sesia, M. Johnson, P. Tao, M. Burcu Statistics in Medicine, 2026 [Preprint] [Published] [BibTeX] Conformal Prediction Regions for Continuous-Time Trajectories under Random Sampling 🎯 J. Alvarez, M. Sesia, J. Deshmukh, L. Lindemann arXiv preprint, 2026 [Preprint] [BibTeX] Conformal...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
@@ -317,9 +317,9 @@ var store = [{
         "url": "/publications/2026-6-continuous-time/",
         "teaser": null
       },{
-        "title": null,
+        "title": "Reproducible life-expectancy eligibility criteria for oncology studies",
         "excerpt":" ","categories": [],
-        "tags": null,
+        "tags": [],
         "url": "/publications/2026-7-reproducible/",
         "teaser": null
       },{
